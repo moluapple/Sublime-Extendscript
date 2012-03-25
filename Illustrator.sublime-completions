@@ -1,0 +1,6069 @@
+{
+    "scope": "source.js - variable.other.js",
+    "completions": [
+        {
+            "trigger": "abstract",
+            "contents": "abstract"
+        },
+        {
+            "trigger": "boolean",
+            "contents": "boolean"
+        },
+        {
+            "trigger": "break",
+            "contents": "break"
+        },
+        {
+            "trigger": "byte",
+            "contents": "byte"
+        },
+        {
+            "trigger": "case",
+            "contents": "case"
+        },
+        {
+            "trigger": "catch",
+            "contents": "catch"
+        },
+        {
+            "trigger": "char",
+            "contents": "char"
+        },
+        {
+            "trigger": "class",
+            "contents": "class"
+        },
+        {
+            "trigger": "const",
+            "contents": "const"
+        },
+        {
+            "trigger": "continue",
+            "contents": "continue"
+        },
+        {
+            "trigger": "debugger",
+            "contents": "debugger"
+        },
+        {
+            "trigger": "default",
+            "contents": "default"
+        },
+        {
+            "trigger": "delete",
+            "contents": "delete"
+        },
+        {
+            "trigger": "do",
+            "contents": "do"
+        },
+        {
+            "trigger": "double",
+            "contents": "double"
+        },
+        {
+            "trigger": "else",
+            "contents": "else"
+        },
+        {
+            "trigger": "enum",
+            "contents": "enum"
+        },
+        {
+            "trigger": "export",
+            "contents": "export"
+        },
+        {
+            "trigger": "extends",
+            "contents": "extends"
+        },
+        {
+            "trigger": "false",
+            "contents": "false"
+        },
+        {
+            "trigger": "final",
+            "contents": "final"
+        },
+        {
+            "trigger": "finally",
+            "contents": "finally"
+        },
+        {
+            "trigger": "float",
+            "contents": "float"
+        },
+        {
+            "trigger": "for",
+            "contents": "for"
+        },
+        {
+            "trigger": "function",
+            "contents": "function"
+        },
+        {
+            "trigger": "goto",
+            "contents": "goto"
+        },
+        {
+            "trigger": "if",
+            "contents": "if"
+        },
+        {
+            "trigger": "implements",
+            "contents": "implements"
+        },
+        {
+            "trigger": "import",
+            "contents": "import"
+        },
+        {
+            "trigger": "in",
+            "contents": "in"
+        },
+        {
+            "trigger": "instanceof",
+            "contents": "instanceof"
+        },
+        {
+            "trigger": "int",
+            "contents": "int"
+        },
+        {
+            "trigger": "interface",
+            "contents": "interface"
+        },
+        {
+            "trigger": "long",
+            "contents": "long"
+        },
+        {
+            "trigger": "native",
+            "contents": "native"
+        },
+        {
+            "trigger": "new",
+            "contents": "new"
+        },
+        {
+            "trigger": "null",
+            "contents": "null"
+        },
+        {
+            "trigger": "package",
+            "contents": "package"
+        },
+        {
+            "trigger": "private",
+            "contents": "private"
+        },
+        {
+            "trigger": "protected",
+            "contents": "protected"
+        },
+        {
+            "trigger": "public",
+            "contents": "public"
+        },
+        {
+            "trigger": "return",
+            "contents": "return"
+        },
+        {
+            "trigger": "short",
+            "contents": "short"
+        },
+        {
+            "trigger": "static",
+            "contents": "static"
+        },
+        {
+            "trigger": "super",
+            "contents": "super"
+        },
+        {
+            "trigger": "switch",
+            "contents": "switch"
+        },
+        {
+            "trigger": "synchronized",
+            "contents": "synchronized"
+        },
+        {
+            "trigger": "this",
+            "contents": "this"
+        },
+        {
+            "trigger": "throw",
+            "contents": "throw"
+        },
+        {
+            "trigger": "throws",
+            "contents": "throws"
+        },
+        {
+            "trigger": "transient",
+            "contents": "transient"
+        },
+        {
+            "trigger": "true",
+            "contents": "true"
+        },
+        {
+            "trigger": "try",
+            "contents": "try"
+        },
+        {
+            "trigger": "typeof",
+            "contents": "typeof"
+        },
+        {
+            "trigger": "var",
+            "contents": "var"
+        },
+        {
+            "trigger": "void",
+            "contents": "void"
+        },
+        {
+            "trigger": "volatile",
+            "contents": "volatile"
+        },
+        {
+            "trigger": "while",
+            "contents": "while"
+        },
+        {
+            "trigger": "with",
+            "contents": "with"
+        },
+        {
+            "trigger": "Infinity",
+            "contents": "Infinity"
+        },
+        {
+            "trigger": "NaN",
+            "contents": "NaN"
+        },
+        {
+            "trigger": "Array",
+            "contents": "Array"
+        },
+        {
+            "trigger": "Date",
+            "contents": "Date"
+        },
+        {
+            "trigger": "Error",
+            "contents": "Error"
+        },
+        {
+            "trigger": "Math",
+            "contents": "Math"
+        },
+        {
+            "trigger": "Number",
+            "contents": "Number"
+        },
+        {
+            "trigger": "Object",
+            "contents": "Object"
+        },
+        {
+            "trigger": "RegExp",
+            "contents": "RegExp"
+        },
+        {
+            "trigger": "String",
+            "contents": "String"
+        },
+        {
+            "trigger": "Reflection",
+            "contents": "Reflection"
+        },
+        {
+            "trigger": "ReflectionInfo",
+            "contents": "ReflectionInfo"
+        },
+        {
+            "trigger": "Dictionary",
+            "contents": "Dictionary"
+        },
+        {
+            "trigger": "File",
+            "contents": "File"
+        },
+        {
+            "trigger": "Folder",
+            "contents": "Folder"
+        },
+        {
+            "trigger": "Socket",
+            "contents": "Socket"
+        },
+        {
+            "trigger": "alternateGlyphsForm",
+            "contents": "alternateGlyphsForm"
+        },
+        {
+            "trigger": "antiAliasingMethod",
+            "contents": "antiAliasingMethod"
+        },
+        {
+            "trigger": "application",
+            "contents": "application"
+        },
+        {
+            "trigger": "artClippingOption",
+            "contents": "artClippingOption"
+        },
+        {
+            "trigger": "artStyle",
+            "contents": "artStyle"
+        },
+        {
+            "trigger": "artStyles",
+            "contents": "artStyles"
+        },
+        {
+            "trigger": "artboard",
+            "contents": "artboard"
+        },
+        {
+            "trigger": "artboards",
+            "contents": "artboards"
+        },
+        {
+            "trigger": "autoCADColors",
+            "contents": "autoCADColors"
+        },
+        {
+            "trigger": "autoCADCompatibility",
+            "contents": "autoCADCompatibility"
+        },
+        {
+            "trigger": "autoCADExportFileFormat",
+            "contents": "autoCADExportFileFormat"
+        },
+        {
+            "trigger": "autoCADExportOption",
+            "contents": "autoCADExportOption"
+        },
+        {
+            "trigger": "autoCADGlobalScaleOption",
+            "contents": "autoCADGlobalScaleOption"
+        },
+        {
+            "trigger": "autoCADRasterFormat",
+            "contents": "autoCADRasterFormat"
+        },
+        {
+            "trigger": "autoCADUnit",
+            "contents": "autoCADUnit"
+        },
+        {
+            "trigger": "autoKernType",
+            "contents": "autoKernType"
+        },
+        {
+            "trigger": "autoLeadingType",
+            "contents": "autoLeadingType"
+        },
+        {
+            "trigger": "baselineDirectionType",
+            "contents": "baselineDirectionType"
+        },
+        {
+            "trigger": "blendAnimationType",
+            "contents": "blendAnimationType"
+        },
+        {
+            "trigger": "blendModes",
+            "contents": "blendModes"
+        },
+        {
+            "trigger": "blendsExpandPolicy",
+            "contents": "blendsExpandPolicy"
+        },
+        {
+            "trigger": "brush",
+            "contents": "brush"
+        },
+        {
+            "trigger": "brushes",
+            "contents": "brushes"
+        },
+        {
+            "trigger": "burasagariTypeEnum",
+            "contents": "burasagariTypeEnum"
+        },
+        {
+            "trigger": "cMYKColor",
+            "contents": "cMYKColor"
+        },
+        {
+            "trigger": "caseChangeType",
+            "contents": "caseChangeType"
+        },
+        {
+            "trigger": "characterAttributes",
+            "contents": "characterAttributes"
+        },
+        {
+            "trigger": "characterStyle",
+            "contents": "characterStyle"
+        },
+        {
+            "trigger": "characterStyles",
+            "contents": "characterStyles"
+        },
+        {
+            "trigger": "characters",
+            "contents": "characters"
+        },
+        {
+            "trigger": "color",
+            "contents": "color"
+        },
+        {
+            "trigger": "colorConversion",
+            "contents": "colorConversion"
+        },
+        {
+            "trigger": "colorConvertPurpose",
+            "contents": "colorConvertPurpose"
+        },
+        {
+            "trigger": "colorDestination",
+            "contents": "colorDestination"
+        },
+        {
+            "trigger": "colorDitherMethod",
+            "contents": "colorDitherMethod"
+        },
+        {
+            "trigger": "colorModel",
+            "contents": "colorModel"
+        },
+        {
+            "trigger": "colorProfile",
+            "contents": "colorProfile"
+        },
+        {
+            "trigger": "colorReductionMethod",
+            "contents": "colorReductionMethod"
+        },
+        {
+            "trigger": "colorType",
+            "contents": "colorType"
+        },
+        {
+            "trigger": "compatibility",
+            "contents": "compatibility"
+        },
+        {
+            "trigger": "compoundPathItem",
+            "contents": "compoundPathItem"
+        },
+        {
+            "trigger": "compoundPathItems",
+            "contents": "compoundPathItems"
+        },
+        {
+            "trigger": "compressionQuality",
+            "contents": "compressionQuality"
+        },
+        {
+            "trigger": "coordinateSystem",
+            "contents": "coordinateSystem"
+        },
+        {
+            "trigger": "cropOptions",
+            "contents": "cropOptions"
+        },
+        {
+            "trigger": "dataSet",
+            "contents": "dataSet"
+        },
+        {
+            "trigger": "dataSets",
+            "contents": "dataSets"
+        },
+        {
+            "trigger": "document",
+            "contents": "document"
+        },
+        {
+            "trigger": "documentArtboardLayout",
+            "contents": "documentArtboardLayout"
+        },
+        {
+            "trigger": "documentColorSpace",
+            "contents": "documentColorSpace"
+        },
+        {
+            "trigger": "documentPreset",
+            "contents": "documentPreset"
+        },
+        {
+            "trigger": "documentPresetType",
+            "contents": "documentPresetType"
+        },
+        {
+            "trigger": "documentPreviewMode",
+            "contents": "documentPreviewMode"
+        },
+        {
+            "trigger": "documentRasterResolution",
+            "contents": "documentRasterResolution"
+        },
+        {
+            "trigger": "documentTransparencyGrid",
+            "contents": "documentTransparencyGrid"
+        },
+        {
+            "trigger": "documentType",
+            "contents": "documentType"
+        },
+        {
+            "trigger": "documents",
+            "contents": "documents"
+        },
+        {
+            "trigger": "downsampleMethod",
+            "contents": "downsampleMethod"
+        },
+        {
+            "trigger": "ePSPostScriptLevelEnum",
+            "contents": "ePSPostScriptLevelEnum"
+        },
+        {
+            "trigger": "ePSPreview",
+            "contents": "ePSPreview"
+        },
+        {
+            "trigger": "ePSSaveOptions",
+            "contents": "ePSSaveOptions"
+        },
+        {
+            "trigger": "exportOptionsAutoCAD",
+            "contents": "exportOptionsAutoCAD"
+        },
+        {
+            "trigger": "exportOptionsFlash",
+            "contents": "exportOptionsFlash"
+        },
+        {
+            "trigger": "exportOptionsGIF",
+            "contents": "exportOptionsGIF"
+        },
+        {
+            "trigger": "exportOptionsJPEG",
+            "contents": "exportOptionsJPEG"
+        },
+        {
+            "trigger": "exportOptionsPNG24",
+            "contents": "exportOptionsPNG24"
+        },
+        {
+            "trigger": "exportOptionsPNG8",
+            "contents": "exportOptionsPNG8"
+        },
+        {
+            "trigger": "exportOptionsPhotoshop",
+            "contents": "exportOptionsPhotoshop"
+        },
+        {
+            "trigger": "exportOptionsSVG",
+            "contents": "exportOptionsSVG"
+        },
+        {
+            "trigger": "exportType",
+            "contents": "exportType"
+        },
+        {
+            "trigger": "fXGSaveOptions",
+            "contents": "fXGSaveOptions"
+        },
+        {
+            "trigger": "fXGVersion",
+            "contents": "fXGVersion"
+        },
+        {
+            "trigger": "figureStyleType",
+            "contents": "figureStyleType"
+        },
+        {
+            "trigger": "filtersPreservePolicy",
+            "contents": "filtersPreservePolicy"
+        },
+        {
+            "trigger": "flashExportStyle",
+            "contents": "flashExportStyle"
+        },
+        {
+            "trigger": "flashExportVersion",
+            "contents": "flashExportVersion"
+        },
+        {
+            "trigger": "flashImageFormat",
+            "contents": "flashImageFormat"
+        },
+        {
+            "trigger": "flashJPEGMethod",
+            "contents": "flashJPEGMethod"
+        },
+        {
+            "trigger": "flashPlaybackSecurity",
+            "contents": "flashPlaybackSecurity"
+        },
+        {
+            "trigger": "fontBaselineOption",
+            "contents": "fontBaselineOption"
+        },
+        {
+            "trigger": "fontCapsOption",
+            "contents": "fontCapsOption"
+        },
+        {
+            "trigger": "fontOpenTypePositionOption",
+            "contents": "fontOpenTypePositionOption"
+        },
+        {
+            "trigger": "fontSubstitutionPolicy",
+            "contents": "fontSubstitutionPolicy"
+        },
+        {
+            "trigger": "gradient",
+            "contents": "gradient"
+        },
+        {
+            "trigger": "gradientColor",
+            "contents": "gradientColor"
+        },
+        {
+            "trigger": "gradientStop",
+            "contents": "gradientStop"
+        },
+        {
+            "trigger": "gradientStops",
+            "contents": "gradientStops"
+        },
+        {
+            "trigger": "gradientType",
+            "contents": "gradientType"
+        },
+        {
+            "trigger": "gradients",
+            "contents": "gradients"
+        },
+        {
+            "trigger": "gradientsPreservePolicy",
+            "contents": "gradientsPreservePolicy"
+        },
+        {
+            "trigger": "graphItem",
+            "contents": "graphItem"
+        },
+        {
+            "trigger": "graphItems",
+            "contents": "graphItems"
+        },
+        {
+            "trigger": "grayColor",
+            "contents": "grayColor"
+        },
+        {
+            "trigger": "groupItem",
+            "contents": "groupItem"
+        },
+        {
+            "trigger": "groupItems",
+            "contents": "groupItems"
+        },
+        {
+            "trigger": "illustratorSaveOptions",
+            "contents": "illustratorSaveOptions"
+        },
+        {
+            "trigger": "imageCaptureOptions",
+            "contents": "imageCaptureOptions"
+        },
+        {
+            "trigger": "imageColorSpace",
+            "contents": "imageColorSpace"
+        },
+        {
+            "trigger": "ink",
+            "contents": "ink"
+        },
+        {
+            "trigger": "inkInfo",
+            "contents": "inkInfo"
+        },
+        {
+            "trigger": "inkPrintStatus",
+            "contents": "inkPrintStatus"
+        },
+        {
+            "trigger": "inkType",
+            "contents": "inkType"
+        },
+        {
+            "trigger": "insertionPoint",
+            "contents": "insertionPoint"
+        },
+        {
+            "trigger": "insertionPoints",
+            "contents": "insertionPoints"
+        },
+        {
+            "trigger": "javaScriptExecutionMode",
+            "contents": "javaScriptExecutionMode"
+        },
+        {
+            "trigger": "justification",
+            "contents": "justification"
+        },
+        {
+            "trigger": "kinsokuOrderEnum",
+            "contents": "kinsokuOrderEnum"
+        },
+        {
+            "trigger": "knockoutState",
+            "contents": "knockoutState"
+        },
+        {
+            "trigger": "labColor",
+            "contents": "labColor"
+        },
+        {
+            "trigger": "languageType",
+            "contents": "languageType"
+        },
+        {
+            "trigger": "layer",
+            "contents": "layer"
+        },
+        {
+            "trigger": "layerOrderType",
+            "contents": "layerOrderType"
+        },
+        {
+            "trigger": "layers",
+            "contents": "layers"
+        },
+        {
+            "trigger": "legacyTextItem",
+            "contents": "legacyTextItem"
+        },
+        {
+            "trigger": "legacyTextItems",
+            "contents": "legacyTextItems"
+        },
+        {
+            "trigger": "libraryType",
+            "contents": "libraryType"
+        },
+        {
+            "trigger": "lines",
+            "contents": "lines"
+        },
+        {
+            "trigger": "matrix",
+            "contents": "matrix"
+        },
+        {
+            "trigger": "meshItem",
+            "contents": "meshItem"
+        },
+        {
+            "trigger": "meshItems",
+            "contents": "meshItems"
+        },
+        {
+            "trigger": "monochromeCompression",
+            "contents": "monochromeCompression"
+        },
+        {
+            "trigger": "noColor",
+            "contents": "noColor"
+        },
+        {
+            "trigger": "nonNativeItem",
+            "contents": "nonNativeItem"
+        },
+        {
+            "trigger": "nonNativeItems",
+            "contents": "nonNativeItems"
+        },
+        {
+            "trigger": "openOptions",
+            "contents": "openOptions"
+        },
+        {
+            "trigger": "openOptionsAutoCAD",
+            "contents": "openOptionsAutoCAD"
+        },
+        {
+            "trigger": "openOptionsFreeHand",
+            "contents": "openOptionsFreeHand"
+        },
+        {
+            "trigger": "openOptionsPDF",
+            "contents": "openOptionsPDF"
+        },
+        {
+            "trigger": "openOptionsPhotoshop",
+            "contents": "openOptionsPhotoshop"
+        },
+        {
+            "trigger": "outputFlattening",
+            "contents": "outputFlattening"
+        },
+        {
+            "trigger": "pDFBoxType",
+            "contents": "pDFBoxType"
+        },
+        {
+            "trigger": "pDFChangesAllowedEnum",
+            "contents": "pDFChangesAllowedEnum"
+        },
+        {
+            "trigger": "pDFCompatibility",
+            "contents": "pDFCompatibility"
+        },
+        {
+            "trigger": "pDFOverprint",
+            "contents": "pDFOverprint"
+        },
+        {
+            "trigger": "pDFPrintAllowedEnum",
+            "contents": "pDFPrintAllowedEnum"
+        },
+        {
+            "trigger": "pDFSaveOptions",
+            "contents": "pDFSaveOptions"
+        },
+        {
+            "trigger": "pDFTrimMarkWeight",
+            "contents": "pDFTrimMarkWeight"
+        },
+        {
+            "trigger": "pDFXStandard",
+            "contents": "pDFXStandard"
+        },
+        {
+            "trigger": "pPDFile",
+            "contents": "pPDFile"
+        },
+        {
+            "trigger": "pPDFileInfo",
+            "contents": "pPDFileInfo"
+        },
+        {
+            "trigger": "pageItem",
+            "contents": "pageItem"
+        },
+        {
+            "trigger": "pageItems",
+            "contents": "pageItems"
+        },
+        {
+            "trigger": "pageMarksTypes",
+            "contents": "pageMarksTypes"
+        },
+        {
+            "trigger": "paper",
+            "contents": "paper"
+        },
+        {
+            "trigger": "paperInfo",
+            "contents": "paperInfo"
+        },
+        {
+            "trigger": "paragraphAttributes",
+            "contents": "paragraphAttributes"
+        },
+        {
+            "trigger": "paragraphStyle",
+            "contents": "paragraphStyle"
+        },
+        {
+            "trigger": "paragraphStyles",
+            "contents": "paragraphStyles"
+        },
+        {
+            "trigger": "paragraphs",
+            "contents": "paragraphs"
+        },
+        {
+            "trigger": "pathItem",
+            "contents": "pathItem"
+        },
+        {
+            "trigger": "pathItems",
+            "contents": "pathItems"
+        },
+        {
+            "trigger": "pathPoint",
+            "contents": "pathPoint"
+        },
+        {
+            "trigger": "pathPointSelection",
+            "contents": "pathPointSelection"
+        },
+        {
+            "trigger": "pathPoints",
+            "contents": "pathPoints"
+        },
+        {
+            "trigger": "pattern",
+            "contents": "pattern"
+        },
+        {
+            "trigger": "patternColor",
+            "contents": "patternColor"
+        },
+        {
+            "trigger": "patterns",
+            "contents": "patterns"
+        },
+        {
+            "trigger": "perspectiveGridPlaneType",
+            "contents": "perspectiveGridPlaneType"
+        },
+        {
+            "trigger": "photoshopCompatibility",
+            "contents": "photoshopCompatibility"
+        },
+        {
+            "trigger": "placedItem",
+            "contents": "placedItem"
+        },
+        {
+            "trigger": "placedItems",
+            "contents": "placedItems"
+        },
+        {
+            "trigger": "pluginItem",
+            "contents": "pluginItem"
+        },
+        {
+            "trigger": "pluginItems",
+            "contents": "pluginItems"
+        },
+        {
+            "trigger": "point",
+            "contents": "point"
+        },
+        {
+            "trigger": "pointType",
+            "contents": "pointType"
+        },
+        {
+            "trigger": "polarityValues",
+            "contents": "polarityValues"
+        },
+        {
+            "trigger": "postScriptImageCompressionType",
+            "contents": "postScriptImageCompressionType"
+        },
+        {
+            "trigger": "preferences",
+            "contents": "preferences"
+        },
+        {
+            "trigger": "printArtworkDesignation",
+            "contents": "printArtworkDesignation"
+        },
+        {
+            "trigger": "printColorIntent",
+            "contents": "printColorIntent"
+        },
+        {
+            "trigger": "printColorManagementOptions",
+            "contents": "printColorManagementOptions"
+        },
+        {
+            "trigger": "printColorProfile",
+            "contents": "printColorProfile"
+        },
+        {
+            "trigger": "printColorSeparationMode",
+            "contents": "printColorSeparationMode"
+        },
+        {
+            "trigger": "printColorSeparationOptions",
+            "contents": "printColorSeparationOptions"
+        },
+        {
+            "trigger": "printCoordinateOptions",
+            "contents": "printCoordinateOptions"
+        },
+        {
+            "trigger": "printFlattenerOptions",
+            "contents": "printFlattenerOptions"
+        },
+        {
+            "trigger": "printFontDownloadMode",
+            "contents": "printFontDownloadMode"
+        },
+        {
+            "trigger": "printFontOptions",
+            "contents": "printFontOptions"
+        },
+        {
+            "trigger": "printJobOptions",
+            "contents": "printJobOptions"
+        },
+        {
+            "trigger": "printOptions",
+            "contents": "printOptions"
+        },
+        {
+            "trigger": "printOrientation",
+            "contents": "printOrientation"
+        },
+        {
+            "trigger": "printPageMarksOptions",
+            "contents": "printPageMarksOptions"
+        },
+        {
+            "trigger": "printPaperOptions",
+            "contents": "printPaperOptions"
+        },
+        {
+            "trigger": "printPosition",
+            "contents": "printPosition"
+        },
+        {
+            "trigger": "printPostScriptOptions",
+            "contents": "printPostScriptOptions"
+        },
+        {
+            "trigger": "printTiling",
+            "contents": "printTiling"
+        },
+        {
+            "trigger": "printer",
+            "contents": "printer"
+        },
+        {
+            "trigger": "printerColorMode",
+            "contents": "printerColorMode"
+        },
+        {
+            "trigger": "printerInfo",
+            "contents": "printerInfo"
+        },
+        {
+            "trigger": "printerPostScriptLevelEnum",
+            "contents": "printerPostScriptLevelEnum"
+        },
+        {
+            "trigger": "printerTypeEnum",
+            "contents": "printerTypeEnum"
+        },
+        {
+            "trigger": "printingBounds",
+            "contents": "printingBounds"
+        },
+        {
+            "trigger": "rGBColor",
+            "contents": "rGBColor"
+        },
+        {
+            "trigger": "rasterEffectOptions",
+            "contents": "rasterEffectOptions"
+        },
+        {
+            "trigger": "rasterItem",
+            "contents": "rasterItem"
+        },
+        {
+            "trigger": "rasterItems",
+            "contents": "rasterItems"
+        },
+        {
+            "trigger": "rasterLinkState",
+            "contents": "rasterLinkState"
+        },
+        {
+            "trigger": "rasterizationColorModel",
+            "contents": "rasterizationColorModel"
+        },
+        {
+            "trigger": "rasterizeOptions",
+            "contents": "rasterizeOptions"
+        },
+        {
+            "trigger": "rectangle",
+            "contents": "rectangle"
+        },
+        {
+            "trigger": "rulerUnits",
+            "contents": "rulerUnits"
+        },
+        {
+            "trigger": "sVGCSSPropertyLocation",
+            "contents": "sVGCSSPropertyLocation"
+        },
+        {
+            "trigger": "sVGDTDVersion",
+            "contents": "sVGDTDVersion"
+        },
+        {
+            "trigger": "sVGDocumentEncoding",
+            "contents": "sVGDocumentEncoding"
+        },
+        {
+            "trigger": "sVGFontSubsetting",
+            "contents": "sVGFontSubsetting"
+        },
+        {
+            "trigger": "sVGFontType",
+            "contents": "sVGFontType"
+        },
+        {
+            "trigger": "saveOptions",
+            "contents": "saveOptions"
+        },
+        {
+            "trigger": "screen",
+            "contents": "screen"
+        },
+        {
+            "trigger": "screenInfo",
+            "contents": "screenInfo"
+        },
+        {
+            "trigger": "screenMode",
+            "contents": "screenMode"
+        },
+        {
+            "trigger": "screenSpotFunction",
+            "contents": "screenSpotFunction"
+        },
+        {
+            "trigger": "spot",
+            "contents": "spot"
+        },
+        {
+            "trigger": "spotColor",
+            "contents": "spotColor"
+        },
+        {
+            "trigger": "spotColorKind",
+            "contents": "spotColorKind"
+        },
+        {
+            "trigger": "spots",
+            "contents": "spots"
+        },
+        {
+            "trigger": "stories",
+            "contents": "stories"
+        },
+        {
+            "trigger": "story",
+            "contents": "story"
+        },
+        {
+            "trigger": "strokeCap",
+            "contents": "strokeCap"
+        },
+        {
+            "trigger": "strokeJoin",
+            "contents": "strokeJoin"
+        },
+        {
+            "trigger": "styleRunAlignmentType",
+            "contents": "styleRunAlignmentType"
+        },
+        {
+            "trigger": "swatch",
+            "contents": "swatch"
+        },
+        {
+            "trigger": "swatchGroup",
+            "contents": "swatchGroup"
+        },
+        {
+            "trigger": "swatchGroups",
+            "contents": "swatchGroups"
+        },
+        {
+            "trigger": "swatches",
+            "contents": "swatches"
+        },
+        {
+            "trigger": "symbol",
+            "contents": "symbol"
+        },
+        {
+            "trigger": "symbolItem",
+            "contents": "symbolItem"
+        },
+        {
+            "trigger": "symbolItems",
+            "contents": "symbolItems"
+        },
+        {
+            "trigger": "symbolRegistrationPoint",
+            "contents": "symbolRegistrationPoint"
+        },
+        {
+            "trigger": "symbols",
+            "contents": "symbols"
+        },
+        {
+            "trigger": "tabStopAlignment",
+            "contents": "tabStopAlignment"
+        },
+        {
+            "trigger": "tabStopInfo",
+            "contents": "tabStopInfo"
+        },
+        {
+            "trigger": "tag",
+            "contents": "tag"
+        },
+        {
+            "trigger": "tags",
+            "contents": "tags"
+        },
+        {
+            "trigger": "textAntialias",
+            "contents": "textAntialias"
+        },
+        {
+            "trigger": "textFont",
+            "contents": "textFont"
+        },
+        {
+            "trigger": "textFonts",
+            "contents": "textFonts"
+        },
+        {
+            "trigger": "textFrameItem",
+            "contents": "textFrameItem"
+        },
+        {
+            "trigger": "textFrameItems",
+            "contents": "textFrameItems"
+        },
+        {
+            "trigger": "textOrientation",
+            "contents": "textOrientation"
+        },
+        {
+            "trigger": "textPath",
+            "contents": "textPath"
+        },
+        {
+            "trigger": "textPreservePolicy",
+            "contents": "textPreservePolicy"
+        },
+        {
+            "trigger": "textRange",
+            "contents": "textRange"
+        },
+        {
+            "trigger": "textRanges",
+            "contents": "textRanges"
+        },
+        {
+            "trigger": "textType",
+            "contents": "textType"
+        },
+        {
+            "trigger": "tracingModeType",
+            "contents": "tracingModeType"
+        },
+        {
+            "trigger": "tracingObject",
+            "contents": "tracingObject"
+        },
+        {
+            "trigger": "tracingOptions",
+            "contents": "tracingOptions"
+        },
+        {
+            "trigger": "transformation",
+            "contents": "transformation"
+        },
+        {
+            "trigger": "trappingType",
+            "contents": "trappingType"
+        },
+        {
+            "trigger": "userInteractionLevel",
+            "contents": "userInteractionLevel"
+        },
+        {
+            "trigger": "variable",
+            "contents": "variable"
+        },
+        {
+            "trigger": "variableKind",
+            "contents": "variableKind"
+        },
+        {
+            "trigger": "variables",
+            "contents": "variables"
+        },
+        {
+            "trigger": "view",
+            "contents": "view"
+        },
+        {
+            "trigger": "viewRasterType",
+            "contents": "viewRasterType"
+        },
+        {
+            "trigger": "viewVectorType",
+            "contents": "viewVectorType"
+        },
+        {
+            "trigger": "views",
+            "contents": "views"
+        },
+        {
+            "trigger": "wariChuJustificationType",
+            "contents": "wariChuJustificationType"
+        },
+        {
+            "trigger": "words",
+            "contents": "words"
+        },
+        {
+            "trigger": "zOrderMethod",
+            "contents": "zOrderMethod"
+        },
+        {
+            "trigger": "MULTIWINDOW",
+            "contents": "MULTIWINDOW"
+        },
+        {
+            "trigger": "DESKTOP",
+            "contents": "DESKTOP"
+        },
+        {
+            "trigger": "FULLSCREEN",
+            "contents": "FULLSCREEN"
+        },
+        {
+            "trigger": "None",
+            "contents": "None"
+        },
+        {
+            "trigger": "CMYK",
+            "contents": "CMYK"
+        },
+        {
+            "trigger": "GRAY",
+            "contents": "GRAY"
+        },
+        {
+            "trigger": "RGB",
+            "contents": "RGB"
+        },
+        {
+            "trigger": "Print",
+            "contents": "Print"
+        },
+        {
+            "trigger": "Web",
+            "contents": "Web"
+        },
+        {
+            "trigger": "Mobile",
+            "contents": "Mobile"
+        },
+        {
+            "trigger": "Video",
+            "contents": "Video"
+        },
+        {
+            "trigger": "BasicCMYK",
+            "contents": "BasicCMYK"
+        },
+        {
+            "trigger": "BasicRGB",
+            "contents": "BasicRGB"
+        },
+        {
+            "trigger": "ScreenResolution",
+            "contents": "ScreenResolution"
+        },
+        {
+            "trigger": "MediumResolution",
+            "contents": "MediumResolution"
+        },
+        {
+            "trigger": "HighResolution",
+            "contents": "HighResolution"
+        },
+        {
+            "trigger": "TransparencyGridNone",
+            "contents": "TransparencyGridNone"
+        },
+        {
+            "trigger": "TransparencyGridLight",
+            "contents": "TransparencyGridLight"
+        },
+        {
+            "trigger": "TransparencyGridMedium",
+            "contents": "TransparencyGridMedium"
+        },
+        {
+            "trigger": "TransparencyGridDark",
+            "contents": "TransparencyGridDark"
+        },
+        {
+            "trigger": "TransparencyGridRed",
+            "contents": "TransparencyGridRed"
+        },
+        {
+            "trigger": "TransparencyGridOrange",
+            "contents": "TransparencyGridOrange"
+        },
+        {
+            "trigger": "TransparencyGridGreen",
+            "contents": "TransparencyGridGreen"
+        },
+        {
+            "trigger": "TransparencyGridBlue",
+            "contents": "TransparencyGridBlue"
+        },
+        {
+            "trigger": "TransparencyGridPurple",
+            "contents": "TransparencyGridPurple"
+        },
+        {
+            "trigger": "DefaultPreview",
+            "contents": "DefaultPreview"
+        },
+        {
+            "trigger": "PixelPreview",
+            "contents": "PixelPreview"
+        },
+        {
+            "trigger": "OverprintPreview",
+            "contents": "OverprintPreview"
+        },
+        {
+            "trigger": "GridByRow",
+            "contents": "GridByRow"
+        },
+        {
+            "trigger": "GridByCol",
+            "contents": "GridByCol"
+        },
+        {
+            "trigger": "Row",
+            "contents": "Row"
+        },
+        {
+            "trigger": "Column",
+            "contents": "Column"
+        },
+        {
+            "trigger": "RLGridByRow",
+            "contents": "RLGridByRow"
+        },
+        {
+            "trigger": "RLGridByCol",
+            "contents": "RLGridByCol"
+        },
+        {
+            "trigger": "RLRow",
+            "contents": "RLRow"
+        },
+        {
+            "trigger": "GrayScale",
+            "contents": "GrayScale"
+        },
+        {
+            "trigger": "LAB",
+            "contents": "LAB"
+        },
+        {
+            "trigger": "Separation",
+            "contents": "Separation"
+        },
+        {
+            "trigger": "DeviceN",
+            "contents": "DeviceN"
+        },
+        {
+            "trigger": "Indexed",
+            "contents": "Indexed"
+        },
+        {
+            "trigger": "BUTTENDCAP",
+            "contents": "BUTTENDCAP"
+        },
+        {
+            "trigger": "ROUNDENDCAP",
+            "contents": "ROUNDENDCAP"
+        },
+        {
+            "trigger": "PROJECTINGENDCAP",
+            "contents": "PROJECTINGENDCAP"
+        },
+        {
+            "trigger": "MITERENDJOIN",
+            "contents": "MITERENDJOIN"
+        },
+        {
+            "trigger": "ROUNDENDJOIN",
+            "contents": "ROUNDENDJOIN"
+        },
+        {
+            "trigger": "BEVELENDJOIN",
+            "contents": "BEVELENDJOIN"
+        },
+        {
+            "trigger": "NOSELECTION",
+            "contents": "NOSELECTION"
+        },
+        {
+            "trigger": "ANCHORPOINT",
+            "contents": "ANCHORPOINT"
+        },
+        {
+            "trigger": "LEFTDIRECTION",
+            "contents": "LEFTDIRECTION"
+        },
+        {
+            "trigger": "RIGHTDIRECTION",
+            "contents": "RIGHTDIRECTION"
+        },
+        {
+            "trigger": "LEFTRIGHTPOINT",
+            "contents": "LEFTRIGHTPOINT"
+        },
+        {
+            "trigger": "SMOOTH",
+            "contents": "SMOOTH"
+        },
+        {
+            "trigger": "CORNER",
+            "contents": "CORNER"
+        },
+        {
+            "trigger": "POINTTEXT",
+            "contents": "POINTTEXT"
+        },
+        {
+            "trigger": "AREATEXT",
+            "contents": "AREATEXT"
+        },
+        {
+            "trigger": "PATHTEXT",
+            "contents": "PATHTEXT"
+        },
+        {
+            "trigger": "SHARP",
+            "contents": "SHARP"
+        },
+        {
+            "trigger": "CRISP",
+            "contents": "CRISP"
+        },
+        {
+            "trigger": "STRONG",
+            "contents": "STRONG"
+        },
+        {
+            "trigger": "LINEAR",
+            "contents": "LINEAR"
+        },
+        {
+            "trigger": "RADIAL",
+            "contents": "RADIAL"
+        },
+        {
+            "trigger": "HORIZONTAL",
+            "contents": "HORIZONTAL"
+        },
+        {
+            "trigger": "VERTICAL",
+            "contents": "VERTICAL"
+        },
+        {
+            "trigger": "Standard",
+            "contents": "Standard"
+        },
+        {
+            "trigger": "Japanese",
+            "contents": "Japanese"
+        },
+        {
+            "trigger": "NODATA",
+            "contents": "NODATA"
+        },
+        {
+            "trigger": "DATAFROMFILE",
+            "contents": "DATAFROMFILE"
+        },
+        {
+            "trigger": "DATAMODIFIED",
+            "contents": "DATAMODIFIED"
+        },
+        {
+            "trigger": "Left",
+            "contents": "Left"
+        },
+        {
+            "trigger": "Center",
+            "contents": "Center"
+        },
+        {
+            "trigger": "Right",
+            "contents": "Right"
+        },
+        {
+            "trigger": "Decimal",
+            "contents": "Decimal"
+        },
+        {
+            "trigger": "FULLJUSTIFYLASTLINELEFT",
+            "contents": "FULLJUSTIFYLASTLINELEFT"
+        },
+        {
+            "trigger": "FULLJUSTIFYLASTLINERIGHT",
+            "contents": "FULLJUSTIFYLASTLINERIGHT"
+        },
+        {
+            "trigger": "FULLJUSTIFYLASTLINECENTER",
+            "contents": "FULLJUSTIFYLASTLINECENTER"
+        },
+        {
+            "trigger": "FULLJUSTIFY",
+            "contents": "FULLJUSTIFY"
+        },
+        {
+            "trigger": "DOCUMENTORIGIN",
+            "contents": "DOCUMENTORIGIN"
+        },
+        {
+            "trigger": "TOPLEFT",
+            "contents": "TOPLEFT"
+        },
+        {
+            "trigger": "BOTTOMLEFT",
+            "contents": "BOTTOMLEFT"
+        },
+        {
+            "trigger": "TOP",
+            "contents": "TOP"
+        },
+        {
+            "trigger": "BOTTOM",
+            "contents": "BOTTOM"
+        },
+        {
+            "trigger": "TOPRIGHT",
+            "contents": "TOPRIGHT"
+        },
+        {
+            "trigger": "BOTTOMRIGHT",
+            "contents": "BOTTOMRIGHT"
+        },
+        {
+            "trigger": "ILLUSTRATORARTWORK",
+            "contents": "ILLUSTRATORARTWORK"
+        },
+        {
+            "trigger": "GRAPHICSTYLES",
+            "contents": "GRAPHICSTYLES"
+        },
+        {
+            "trigger": "ILLUSTRATOR",
+            "contents": "ILLUSTRATOR"
+        },
+        {
+            "trigger": "EPS",
+            "contents": "EPS"
+        },
+        {
+            "trigger": "PDF",
+            "contents": "PDF"
+        },
+        {
+            "trigger": "FXG",
+            "contents": "FXG"
+        },
+        {
+            "trigger": "JPEG",
+            "contents": "JPEG"
+        },
+        {
+            "trigger": "PHOTOSHOP",
+            "contents": "PHOTOSHOP"
+        },
+        {
+            "trigger": "SVG",
+            "contents": "SVG"
+        },
+        {
+            "trigger": "PNG8",
+            "contents": "PNG8"
+        },
+        {
+            "trigger": "PNG24",
+            "contents": "PNG24"
+        },
+        {
+            "trigger": "GIF",
+            "contents": "GIF"
+        },
+        {
+            "trigger": "FLASH",
+            "contents": "FLASH"
+        },
+        {
+            "trigger": "AUTOCAD",
+            "contents": "AUTOCAD"
+        },
+        {
+            "trigger": "SELECTIVE",
+            "contents": "SELECTIVE"
+        },
+        {
+            "trigger": "ADAPTIVE",
+            "contents": "ADAPTIVE"
+        },
+        {
+            "trigger": "PERCEPTUAL",
+            "contents": "PERCEPTUAL"
+        },
+        {
+            "trigger": "NOREDUCTION",
+            "contents": "NOREDUCTION"
+        },
+        {
+            "trigger": "DIFFUSION",
+            "contents": "DIFFUSION"
+        },
+        {
+            "trigger": "PATTERNDITHER",
+            "contents": "PATTERNDITHER"
+        },
+        {
+            "trigger": "NOISE",
+            "contents": "NOISE"
+        },
+        {
+            "trigger": "ILLUSTRATOR3",
+            "contents": "ILLUSTRATOR3"
+        },
+        {
+            "trigger": "JAPANESEVERSION3",
+            "contents": "JAPANESEVERSION3"
+        },
+        {
+            "trigger": "ILLUSTRATOR8",
+            "contents": "ILLUSTRATOR8"
+        },
+        {
+            "trigger": "ILLUSTRATOR9",
+            "contents": "ILLUSTRATOR9"
+        },
+        {
+            "trigger": "ILLUSTRATOR10",
+            "contents": "ILLUSTRATOR10"
+        },
+        {
+            "trigger": "ILLUSTRATOR11",
+            "contents": "ILLUSTRATOR11"
+        },
+        {
+            "trigger": "ILLUSTRATOR12",
+            "contents": "ILLUSTRATOR12"
+        },
+        {
+            "trigger": "ILLUSTRATOR13",
+            "contents": "ILLUSTRATOR13"
+        },
+        {
+            "trigger": "ILLUSTRATOR14",
+            "contents": "ILLUSTRATOR14"
+        },
+        {
+            "trigger": "ILLUSTRATOR15",
+            "contents": "ILLUSTRATOR15"
+        },
+        {
+            "trigger": "PDFXNONE",
+            "contents": "PDFXNONE"
+        },
+        {
+            "trigger": "PDFX1A2001",
+            "contents": "PDFX1A2001"
+        },
+        {
+            "trigger": "PDFX1A2003",
+            "contents": "PDFX1A2003"
+        },
+        {
+            "trigger": "PDFX32001",
+            "contents": "PDFX32001"
+        },
+        {
+            "trigger": "PDFX32002",
+            "contents": "PDFX32002"
+        },
+        {
+            "trigger": "PDFX32003",
+            "contents": "PDFX32003"
+        },
+        {
+            "trigger": "PDFX42007",
+            "contents": "PDFX42007"
+        },
+        {
+            "trigger": "ACROBAT4",
+            "contents": "ACROBAT4"
+        },
+        {
+            "trigger": "ACROBAT5",
+            "contents": "ACROBAT5"
+        },
+        {
+            "trigger": "ACROBAT6",
+            "contents": "ACROBAT6"
+        },
+        {
+            "trigger": "ACROBAT7",
+            "contents": "ACROBAT7"
+        },
+        {
+            "trigger": "ACROBAT8",
+            "contents": "ACROBAT8"
+        },
+        {
+            "trigger": "PHOTOSHOP8",
+            "contents": "PHOTOSHOP8"
+        },
+        {
+            "trigger": "PHOTOSHOP6",
+            "contents": "PHOTOSHOP6"
+        },
+        {
+            "trigger": "JPEGMINIMUM",
+            "contents": "JPEGMINIMUM"
+        },
+        {
+            "trigger": "JPEGLOW",
+            "contents": "JPEGLOW"
+        },
+        {
+            "trigger": "JPEGMEDIUM",
+            "contents": "JPEGMEDIUM"
+        },
+        {
+            "trigger": "JPEGHIGH",
+            "contents": "JPEGHIGH"
+        },
+        {
+            "trigger": "JPEGMAXIMUM",
+            "contents": "JPEGMAXIMUM"
+        },
+        {
+            "trigger": "ZIP4BIT",
+            "contents": "ZIP4BIT"
+        },
+        {
+            "trigger": "ZIP8BIT",
+            "contents": "ZIP8BIT"
+        },
+        {
+            "trigger": "AUTOMATICJPEGMINIMUM",
+            "contents": "AUTOMATICJPEGMINIMUM"
+        },
+        {
+            "trigger": "AUTOMATICJPEGLOW",
+            "contents": "AUTOMATICJPEGLOW"
+        },
+        {
+            "trigger": "AUTOMATICJPEGMEDIUM",
+            "contents": "AUTOMATICJPEGMEDIUM"
+        },
+        {
+            "trigger": "AUTOMATICJPEGHIGH",
+            "contents": "AUTOMATICJPEGHIGH"
+        },
+        {
+            "trigger": "AUTOMATICJPEGMAXIMUM",
+            "contents": "AUTOMATICJPEGMAXIMUM"
+        },
+        {
+            "trigger": "AUTOMATICJPEG2000MINIMUM",
+            "contents": "AUTOMATICJPEG2000MINIMUM"
+        },
+        {
+            "trigger": "AUTOMATICJPEG2000LOW",
+            "contents": "AUTOMATICJPEG2000LOW"
+        },
+        {
+            "trigger": "AUTOMATICJPEG2000MEDIUM",
+            "contents": "AUTOMATICJPEG2000MEDIUM"
+        },
+        {
+            "trigger": "AUTOMATICJPEG2000HIGH",
+            "contents": "AUTOMATICJPEG2000HIGH"
+        },
+        {
+            "trigger": "AUTOMATICJPEG2000MAXIMUM",
+            "contents": "AUTOMATICJPEG2000MAXIMUM"
+        },
+        {
+            "trigger": "AUTOMATICJPEG2000LOSSLESS",
+            "contents": "AUTOMATICJPEG2000LOSSLESS"
+        },
+        {
+            "trigger": "JPEG2000MINIMUM",
+            "contents": "JPEG2000MINIMUM"
+        },
+        {
+            "trigger": "JPEG2000LOW",
+            "contents": "JPEG2000LOW"
+        },
+        {
+            "trigger": "JPEG2000MEDIUM",
+            "contents": "JPEG2000MEDIUM"
+        },
+        {
+            "trigger": "JPEG2000HIGH",
+            "contents": "JPEG2000HIGH"
+        },
+        {
+            "trigger": "JPEG2000MAXIMUM",
+            "contents": "JPEG2000MAXIMUM"
+        },
+        {
+            "trigger": "JPEG2000LOSSLESS",
+            "contents": "JPEG2000LOSSLESS"
+        },
+        {
+            "trigger": "COLORCONVERSIONTODEST",
+            "contents": "COLORCONVERSIONTODEST"
+        },
+        {
+            "trigger": "COLORCONVERSIONREPURPOSE",
+            "contents": "COLORCONVERSIONREPURPOSE"
+        },
+        {
+            "trigger": "COLORDESTINATIONDOCCMYK",
+            "contents": "COLORDESTINATIONDOCCMYK"
+        },
+        {
+            "trigger": "COLORDESTINATIONWORKINGCMYK",
+            "contents": "COLORDESTINATIONWORKINGCMYK"
+        },
+        {
+            "trigger": "COLORDESTINATIONDOCRGB",
+            "contents": "COLORDESTINATIONDOCRGB"
+        },
+        {
+            "trigger": "COLORDESTINATIONWORKINGRGB",
+            "contents": "COLORDESTINATIONWORKINGRGB"
+        },
+        {
+            "trigger": "COLORDESTINATIONPROFILE",
+            "contents": "COLORDESTINATIONPROFILE"
+        },
+        {
+            "trigger": "INCLUDEALLPROFILE",
+            "contents": "INCLUDEALLPROFILE"
+        },
+        {
+            "trigger": "LEAVEPROFILEUNCHANGED",
+            "contents": "LEAVEPROFILEUNCHANGED"
+        },
+        {
+            "trigger": "INCLUDERGBPROFILE",
+            "contents": "INCLUDERGBPROFILE"
+        },
+        {
+            "trigger": "INCLUDEDESTPROFILE",
+            "contents": "INCLUDEDESTPROFILE"
+        },
+        {
+            "trigger": "CCIT3",
+            "contents": "CCIT3"
+        },
+        {
+            "trigger": "CCIT4",
+            "contents": "CCIT4"
+        },
+        {
+            "trigger": "MONOZIP",
+            "contents": "MONOZIP"
+        },
+        {
+            "trigger": "RUNLENGTH",
+            "contents": "RUNLENGTH"
+        },
+        {
+            "trigger": "TRIMMARKWEIGHT0125",
+            "contents": "TRIMMARKWEIGHT0125"
+        },
+        {
+            "trigger": "TRIMMARKWEIGHT025",
+            "contents": "TRIMMARKWEIGHT025"
+        },
+        {
+            "trigger": "TRIMMARKWEIGHT05",
+            "contents": "TRIMMARKWEIGHT05"
+        },
+        {
+            "trigger": "PRESERVEPDFOVERPRINT",
+            "contents": "PRESERVEPDFOVERPRINT"
+        },
+        {
+            "trigger": "DISCARDPDFOVERPRINT",
+            "contents": "DISCARDPDFOVERPRINT"
+        },
+        {
+            "trigger": "PRINT128NONE",
+            "contents": "PRINT128NONE"
+        },
+        {
+            "trigger": "PRINT128LOWRESOLUTION",
+            "contents": "PRINT128LOWRESOLUTION"
+        },
+        {
+            "trigger": "PRINT128HIGHRESOLUTION",
+            "contents": "PRINT128HIGHRESOLUTION"
+        },
+        {
+            "trigger": "PRINT40NONE",
+            "contents": "PRINT40NONE"
+        },
+        {
+            "trigger": "PRINT40HIGHRESOLUTION",
+            "contents": "PRINT40HIGHRESOLUTION"
+        },
+        {
+            "trigger": "CHANGE128NONE",
+            "contents": "CHANGE128NONE"
+        },
+        {
+            "trigger": "CHANGE128EDITPAGE",
+            "contents": "CHANGE128EDITPAGE"
+        },
+        {
+            "trigger": "CHANGE128FILLFORM",
+            "contents": "CHANGE128FILLFORM"
+        },
+        {
+            "trigger": "CHANGE128COMMENTING",
+            "contents": "CHANGE128COMMENTING"
+        },
+        {
+            "trigger": "CHANGE128ANYCHANGES",
+            "contents": "CHANGE128ANYCHANGES"
+        },
+        {
+            "trigger": "CHANGE40NONE",
+            "contents": "CHANGE40NONE"
+        },
+        {
+            "trigger": "CHANGE40COMMENTING",
+            "contents": "CHANGE40COMMENTING"
+        },
+        {
+            "trigger": "CHANGE40PAGELAYOUT",
+            "contents": "CHANGE40PAGELAYOUT"
+        },
+        {
+            "trigger": "CHANGE40ANYCHANGES",
+            "contents": "CHANGE40ANYCHANGES"
+        },
+        {
+            "trigger": "NODOWNSAMPLE",
+            "contents": "NODOWNSAMPLE"
+        },
+        {
+            "trigger": "AVERAGEDOWNSAMPLE",
+            "contents": "AVERAGEDOWNSAMPLE"
+        },
+        {
+            "trigger": "SUBSAMPLE",
+            "contents": "SUBSAMPLE"
+        },
+        {
+            "trigger": "BICUBICDOWNSAMPLE",
+            "contents": "BICUBICDOWNSAMPLE"
+        },
+        {
+            "trigger": "BWMACINTOSH",
+            "contents": "BWMACINTOSH"
+        },
+        {
+            "trigger": "COLORMACINTOSH",
+            "contents": "COLORMACINTOSH"
+        },
+        {
+            "trigger": "BWTIFF",
+            "contents": "BWTIFF"
+        },
+        {
+            "trigger": "COLORTIFF",
+            "contents": "COLORTIFF"
+        },
+        {
+            "trigger": "TRANSPARENTCOLORTIFF",
+            "contents": "TRANSPARENTCOLORTIFF"
+        },
+        {
+            "trigger": "LEVEL2",
+            "contents": "LEVEL2"
+        },
+        {
+            "trigger": "LEVEL3",
+            "contents": "LEVEL3"
+        },
+        {
+            "trigger": "PSLEVEL1",
+            "contents": "PSLEVEL1"
+        },
+        {
+            "trigger": "PSLEVEL2",
+            "contents": "PSLEVEL2"
+        },
+        {
+            "trigger": "PSLEVEL3",
+            "contents": "PSLEVEL3"
+        },
+        {
+            "trigger": "SAVECHANGES",
+            "contents": "SAVECHANGES"
+        },
+        {
+            "trigger": "DONOTSAVECHANGES",
+            "contents": "DONOTSAVECHANGES"
+        },
+        {
+            "trigger": "PROMPTTOSAVECHANGES",
+            "contents": "PROMPTTOSAVECHANGES"
+        },
+        {
+            "trigger": "Unknown",
+            "contents": "Unknown"
+        },
+        {
+            "trigger": "Inches",
+            "contents": "Inches"
+        },
+        {
+            "trigger": "Centimeters",
+            "contents": "Centimeters"
+        },
+        {
+            "trigger": "Points",
+            "contents": "Points"
+        },
+        {
+            "trigger": "Picas",
+            "contents": "Picas"
+        },
+        {
+            "trigger": "Millimeters",
+            "contents": "Millimeters"
+        },
+        {
+            "trigger": "Qs",
+            "contents": "Qs"
+        },
+        {
+            "trigger": "Pixels",
+            "contents": "Pixels"
+        },
+        {
+            "trigger": "NORMAL",
+            "contents": "NORMAL"
+        },
+        {
+            "trigger": "MULTIPLY",
+            "contents": "MULTIPLY"
+        },
+        {
+            "trigger": "OVERLAY",
+            "contents": "OVERLAY"
+        },
+        {
+            "trigger": "SOFTLIGHT",
+            "contents": "SOFTLIGHT"
+        },
+        {
+            "trigger": "HARDLIGHT",
+            "contents": "HARDLIGHT"
+        },
+        {
+            "trigger": "COLORDODGE",
+            "contents": "COLORDODGE"
+        },
+        {
+            "trigger": "COLORBURN",
+            "contents": "COLORBURN"
+        },
+        {
+            "trigger": "DARKEN",
+            "contents": "DARKEN"
+        },
+        {
+            "trigger": "LIGHTEN",
+            "contents": "LIGHTEN"
+        },
+        {
+            "trigger": "DIFFERENCE",
+            "contents": "DIFFERENCE"
+        },
+        {
+            "trigger": "EXCLUSION",
+            "contents": "EXCLUSION"
+        },
+        {
+            "trigger": "HUE",
+            "contents": "HUE"
+        },
+        {
+            "trigger": "SATURATIONBLEND",
+            "contents": "SATURATIONBLEND"
+        },
+        {
+            "trigger": "COLORBLEND",
+            "contents": "COLORBLEND"
+        },
+        {
+            "trigger": "LUMINOSITY",
+            "contents": "LUMINOSITY"
+        },
+        {
+            "trigger": "DISABLED",
+            "contents": "DISABLED"
+        },
+        {
+            "trigger": "ENABLED",
+            "contents": "ENABLED"
+        },
+        {
+            "trigger": "INHERITED",
+            "contents": "INHERITED"
+        },
+        {
+            "trigger": "BRINGTOFRONT",
+            "contents": "BRINGTOFRONT"
+        },
+        {
+            "trigger": "BRINGFORWARD",
+            "contents": "BRINGFORWARD"
+        },
+        {
+            "trigger": "SENDBACKWARD",
+            "contents": "SENDBACKWARD"
+        },
+        {
+            "trigger": "SENDTOBACK",
+            "contents": "SENDTOBACK"
+        },
+        {
+            "trigger": "SVG1_0",
+            "contents": "SVG1_0"
+        },
+        {
+            "trigger": "SVG1_1",
+            "contents": "SVG1_1"
+        },
+        {
+            "trigger": "SVGTINY1_1",
+            "contents": "SVGTINY1_1"
+        },
+        {
+            "trigger": "SVGTINY1_1PLUS",
+            "contents": "SVGTINY1_1PLUS"
+        },
+        {
+            "trigger": "SVGBASIC1_1",
+            "contents": "SVGBASIC1_1"
+        },
+        {
+            "trigger": "SVGTINY1_2",
+            "contents": "SVGTINY1_2"
+        },
+        {
+            "trigger": "CEFFONT",
+            "contents": "CEFFONT"
+        },
+        {
+            "trigger": "SVGFONT",
+            "contents": "SVGFONT"
+        },
+        {
+            "trigger": "OUTLINEFONT",
+            "contents": "OUTLINEFONT"
+        },
+        {
+            "trigger": "GLYPHSUSED",
+            "contents": "GLYPHSUSED"
+        },
+        {
+            "trigger": "COMMONENGLISH",
+            "contents": "COMMONENGLISH"
+        },
+        {
+            "trigger": "GLYPHSUSEDPLUSENGLISH",
+            "contents": "GLYPHSUSEDPLUSENGLISH"
+        },
+        {
+            "trigger": "COMMONROMAN",
+            "contents": "COMMONROMAN"
+        },
+        {
+            "trigger": "GLYPHSUSEDPLUSROMAN",
+            "contents": "GLYPHSUSEDPLUSROMAN"
+        },
+        {
+            "trigger": "ALLGLYPHS",
+            "contents": "ALLGLYPHS"
+        },
+        {
+            "trigger": "ASCII",
+            "contents": "ASCII"
+        },
+        {
+            "trigger": "UTF8",
+            "contents": "UTF8"
+        },
+        {
+            "trigger": "UTF16",
+            "contents": "UTF16"
+        },
+        {
+            "trigger": "ENTITIES",
+            "contents": "ENTITIES"
+        },
+        {
+            "trigger": "STYLEATTRIBUTES",
+            "contents": "STYLEATTRIBUTES"
+        },
+        {
+            "trigger": "STYLEELEMENTS",
+            "contents": "STYLEELEMENTS"
+        },
+        {
+            "trigger": "PRESENTATIONATTRIBUTES",
+            "contents": "PRESENTATIONATTRIBUTES"
+        },
+        {
+            "trigger": "PRESERVEPATHS",
+            "contents": "PRESERVEPATHS"
+        },
+        {
+            "trigger": "PRESERVEAPPEARANCE",
+            "contents": "PRESERVEAPPEARANCE"
+        },
+        {
+            "trigger": "REGISTRATION",
+            "contents": "REGISTRATION"
+        },
+        {
+            "trigger": "PROCESS",
+            "contents": "PROCESS"
+        },
+        {
+            "trigger": "SPOTCMYK",
+            "contents": "SPOTCMYK"
+        },
+        {
+            "trigger": "SPOTRGB",
+            "contents": "SPOTRGB"
+        },
+        {
+            "trigger": "SPOTLAB",
+            "contents": "SPOTLAB"
+        },
+        {
+            "trigger": "ARTBOARDSTOFILES",
+            "contents": "ARTBOARDSTOFILES"
+        },
+        {
+            "trigger": "ASFLASHFILE",
+            "contents": "ASFLASHFILE"
+        },
+        {
+            "trigger": "LAYERSASFRAMES",
+            "contents": "LAYERSASFRAMES"
+        },
+        {
+            "trigger": "LAYERSASFILES",
+            "contents": "LAYERSASFILES"
+        },
+        {
+            "trigger": "LAYERSASSYMBOLS",
+            "contents": "LAYERSASSYMBOLS"
+        },
+        {
+            "trigger": "OUTPUTARTBOUNDS",
+            "contents": "OUTPUTARTBOUNDS"
+        },
+        {
+            "trigger": "OUTPUTARTBOARDBOUNDS",
+            "contents": "OUTPUTARTBOARDBOUNDS"
+        },
+        {
+            "trigger": "OUTPUTCROPRECTBOUNDS",
+            "contents": "OUTPUTCROPRECTBOUNDS"
+        },
+        {
+            "trigger": "FLASHVERSION1",
+            "contents": "FLASHVERSION1"
+        },
+        {
+            "trigger": "FLASHVERSION2",
+            "contents": "FLASHVERSION2"
+        },
+        {
+            "trigger": "FLASHVERSION3",
+            "contents": "FLASHVERSION3"
+        },
+        {
+            "trigger": "FLASHVERSION4",
+            "contents": "FLASHVERSION4"
+        },
+        {
+            "trigger": "FLASHVERSION5",
+            "contents": "FLASHVERSION5"
+        },
+        {
+            "trigger": "FLASHVERSION6",
+            "contents": "FLASHVERSION6"
+        },
+        {
+            "trigger": "FLASHVERSION7",
+            "contents": "FLASHVERSION7"
+        },
+        {
+            "trigger": "FLASHVERSION8",
+            "contents": "FLASHVERSION8"
+        },
+        {
+            "trigger": "FLASHVERSION9",
+            "contents": "FLASHVERSION9"
+        },
+        {
+            "trigger": "LOSSLESS",
+            "contents": "LOSSLESS"
+        },
+        {
+            "trigger": "LOSSY",
+            "contents": "LOSSY"
+        },
+        {
+            "trigger": "BOTTOMUP",
+            "contents": "BOTTOMUP"
+        },
+        {
+            "trigger": "TOPDOWN",
+            "contents": "TOPDOWN"
+        },
+        {
+            "trigger": "NOBLENDANIMATION",
+            "contents": "NOBLENDANIMATION"
+        },
+        {
+            "trigger": "INSEQUENCE",
+            "contents": "INSEQUENCE"
+        },
+        {
+            "trigger": "INBUILD",
+            "contents": "INBUILD"
+        },
+        {
+            "trigger": "Optimized",
+            "contents": "Optimized"
+        },
+        {
+            "trigger": "PlaybackLocal",
+            "contents": "PlaybackLocal"
+        },
+        {
+            "trigger": "PlaybackNetwork",
+            "contents": "PlaybackNetwork"
+        },
+        {
+            "trigger": "VISIBILITY",
+            "contents": "VISIBILITY"
+        },
+        {
+            "trigger": "TEXTUAL",
+            "contents": "TEXTUAL"
+        },
+        {
+            "trigger": "IMAGE",
+            "contents": "IMAGE"
+        },
+        {
+            "trigger": "GRAPH",
+            "contents": "GRAPH"
+        },
+        {
+            "trigger": "DXF",
+            "contents": "DXF"
+        },
+        {
+            "trigger": "DWG",
+            "contents": "DWG"
+        },
+        {
+            "trigger": "AutoCADRelease13",
+            "contents": "AutoCADRelease13"
+        },
+        {
+            "trigger": "AutoCADRelease14",
+            "contents": "AutoCADRelease14"
+        },
+        {
+            "trigger": "AutoCADRelease15",
+            "contents": "AutoCADRelease15"
+        },
+        {
+            "trigger": "AutoCADRelease18",
+            "contents": "AutoCADRelease18"
+        },
+        {
+            "trigger": "Max8Colors",
+            "contents": "Max8Colors"
+        },
+        {
+            "trigger": "Max16Colors",
+            "contents": "Max16Colors"
+        },
+        {
+            "trigger": "Max256Colors",
+            "contents": "Max256Colors"
+        },
+        {
+            "trigger": "TrueColors",
+            "contents": "TrueColors"
+        },
+        {
+            "trigger": "PNG",
+            "contents": "PNG"
+        },
+        {
+            "trigger": "MaximumEditability",
+            "contents": "MaximumEditability"
+        },
+        {
+            "trigger": "OriginalSize",
+            "contents": "OriginalSize"
+        },
+        {
+            "trigger": "FitArtboard",
+            "contents": "FitArtboard"
+        },
+        {
+            "trigger": "ScaleByValue",
+            "contents": "ScaleByValue"
+        },
+        {
+            "trigger": "DONTDISPLAYALERTS",
+            "contents": "DONTDISPLAYALERTS"
+        },
+        {
+            "trigger": "DISPLAYALERTS",
+            "contents": "DISPLAYALERTS"
+        },
+        {
+            "trigger": "POSITIVE",
+            "contents": "POSITIVE"
+        },
+        {
+            "trigger": "NEGATIVE",
+            "contents": "NEGATIVE"
+        },
+        {
+            "trigger": "never",
+            "contents": "never"
+        },
+        {
+            "trigger": "OnRuntimeError",
+            "contents": "OnRuntimeError"
+        },
+        {
+            "trigger": "BeforeRunning",
+            "contents": "BeforeRunning"
+        },
+        {
+            "trigger": "VISIBLEPRINTABLELAYERS",
+            "contents": "VISIBLEPRINTABLELAYERS"
+        },
+        {
+            "trigger": "VISIBLELAYERS",
+            "contents": "VISIBLELAYERS"
+        },
+        {
+            "trigger": "ALLLAYERS",
+            "contents": "ALLLAYERS"
+        },
+        {
+            "trigger": "ARTBOARDBOUNDS",
+            "contents": "ARTBOARDBOUNDS"
+        },
+        {
+            "trigger": "ARTWORKBOUNDS",
+            "contents": "ARTWORKBOUNDS"
+        },
+        {
+            "trigger": "CROPBOUNDS",
+            "contents": "CROPBOUNDS"
+        },
+        {
+            "trigger": "COMPOSITE",
+            "contents": "COMPOSITE"
+        },
+        {
+            "trigger": "HOSTBASEDSEPARATION",
+            "contents": "HOSTBASEDSEPARATION"
+        },
+        {
+            "trigger": "INRIPSEPARATION",
+            "contents": "INRIPSEPARATION"
+        },
+        {
+            "trigger": "PORTRAIT",
+            "contents": "PORTRAIT"
+        },
+        {
+            "trigger": "LANDSCAPE",
+            "contents": "LANDSCAPE"
+        },
+        {
+            "trigger": "REVERSEPORTRAIT",
+            "contents": "REVERSEPORTRAIT"
+        },
+        {
+            "trigger": "REVERSELANDSCAPE",
+            "contents": "REVERSELANDSCAPE"
+        },
+        {
+            "trigger": "AUTOROTATE",
+            "contents": "AUTOROTATE"
+        },
+        {
+            "trigger": "TRANSLATETOPLEFT",
+            "contents": "TRANSLATETOPLEFT"
+        },
+        {
+            "trigger": "TRANSLATETOP",
+            "contents": "TRANSLATETOP"
+        },
+        {
+            "trigger": "TRANSLATETOPRIGHT",
+            "contents": "TRANSLATETOPRIGHT"
+        },
+        {
+            "trigger": "TRANSLATELEFT",
+            "contents": "TRANSLATELEFT"
+        },
+        {
+            "trigger": "TRANSLATECENTER",
+            "contents": "TRANSLATECENTER"
+        },
+        {
+            "trigger": "TRANSLATERIGHT",
+            "contents": "TRANSLATERIGHT"
+        },
+        {
+            "trigger": "TRANSLATEBOTTOMLEFT",
+            "contents": "TRANSLATEBOTTOMLEFT"
+        },
+        {
+            "trigger": "TRANSLATEBOTTOM",
+            "contents": "TRANSLATEBOTTOM"
+        },
+        {
+            "trigger": "TRANSLATEBOTTOMRIGHT",
+            "contents": "TRANSLATEBOTTOMRIGHT"
+        },
+        {
+            "trigger": "TILESINGLEFULLPAGE",
+            "contents": "TILESINGLEFULLPAGE"
+        },
+        {
+            "trigger": "TILEFULLPAGES",
+            "contents": "TILEFULLPAGES"
+        },
+        {
+            "trigger": "TILEIMAGEABLEAREAS",
+            "contents": "TILEIMAGEABLEAREAS"
+        },
+        {
+            "trigger": "Roman",
+            "contents": "Roman"
+        },
+        {
+            "trigger": "DOWNLOADNONE",
+            "contents": "DOWNLOADNONE"
+        },
+        {
+            "trigger": "DOWNLOADSUBSET",
+            "contents": "DOWNLOADSUBSET"
+        },
+        {
+            "trigger": "DOWNLOADCOMPLETE",
+            "contents": "DOWNLOADCOMPLETE"
+        },
+        {
+            "trigger": "SUBSTITUTEOBLIQUE",
+            "contents": "SUBSTITUTEOBLIQUE"
+        },
+        {
+            "trigger": "SUBSTITUTETINT",
+            "contents": "SUBSTITUTETINT"
+        },
+        {
+            "trigger": "SUBSTITUTEDEVICE",
+            "contents": "SUBSTITUTEDEVICE"
+        },
+        {
+            "trigger": "IMAGECOMPRESSIONNONE",
+            "contents": "IMAGECOMPRESSIONNONE"
+        },
+        {
+            "trigger": "RLE",
+            "contents": "RLE"
+        },
+        {
+            "trigger": "OLDSTYLEPROFILE",
+            "contents": "OLDSTYLEPROFILE"
+        },
+        {
+            "trigger": "SOURCEPROFILE",
+            "contents": "SOURCEPROFILE"
+        },
+        {
+            "trigger": "PRINTERPROFILE",
+            "contents": "PRINTERPROFILE"
+        },
+        {
+            "trigger": "CUSTOMPROFILE",
+            "contents": "CUSTOMPROFILE"
+        },
+        {
+            "trigger": "PERCEPTUALINTENT",
+            "contents": "PERCEPTUALINTENT"
+        },
+        {
+            "trigger": "SATURATIONINTENT",
+            "contents": "SATURATIONINTENT"
+        },
+        {
+            "trigger": "RELATIVECOLORIMETRIC",
+            "contents": "RELATIVECOLORIMETRIC"
+        },
+        {
+            "trigger": "ABSOLUTECOLORIMETRIC",
+            "contents": "ABSOLUTECOLORIMETRIC"
+        },
+        {
+            "trigger": "POSTSCRIPTPRINTER",
+            "contents": "POSTSCRIPTPRINTER"
+        },
+        {
+            "trigger": "NONPOSTSCRIPTPRINTER",
+            "contents": "NONPOSTSCRIPTPRINTER"
+        },
+        {
+            "trigger": "COLORPRINTER",
+            "contents": "COLORPRINTER"
+        },
+        {
+            "trigger": "GRAYSCALEPRINTER",
+            "contents": "GRAYSCALEPRINTER"
+        },
+        {
+            "trigger": "BLACKANDWHITEPRINTER",
+            "contents": "BLACKANDWHITEPRINTER"
+        },
+        {
+            "trigger": "DISABLEINK",
+            "contents": "DISABLEINK"
+        },
+        {
+            "trigger": "ENABLEINK",
+            "contents": "ENABLEINK"
+        },
+        {
+            "trigger": "CONVERTINK",
+            "contents": "CONVERTINK"
+        },
+        {
+            "trigger": "CYANINK",
+            "contents": "CYANINK"
+        },
+        {
+            "trigger": "MAGENTAINK",
+            "contents": "MAGENTAINK"
+        },
+        {
+            "trigger": "YELLOWINK",
+            "contents": "YELLOWINK"
+        },
+        {
+            "trigger": "BLACKINK",
+            "contents": "BLACKINK"
+        },
+        {
+            "trigger": "CUSTOMINK",
+            "contents": "CUSTOMINK"
+        },
+        {
+            "trigger": "NORMALTRAPPING",
+            "contents": "NORMALTRAPPING"
+        },
+        {
+            "trigger": "TRANSPARENT",
+            "contents": "TRANSPARENT"
+        },
+        {
+            "trigger": "OPAQUE",
+            "contents": "OPAQUE"
+        },
+        {
+            "trigger": "IGNOREOPAQUE",
+            "contents": "IGNOREOPAQUE"
+        },
+        {
+            "trigger": "NOAUTOKERN",
+            "contents": "NOAUTOKERN"
+        },
+        {
+            "trigger": "AUTO",
+            "contents": "AUTO"
+        },
+        {
+            "trigger": "OPTICAL",
+            "contents": "OPTICAL"
+        },
+        {
+            "trigger": "METRICSROMANONLY",
+            "contents": "METRICSROMANONLY"
+        },
+        {
+            "trigger": "BOTTOMTOBOTTOM",
+            "contents": "BOTTOMTOBOTTOM"
+        },
+        {
+            "trigger": "TOPTOTOP",
+            "contents": "TOPTOTOP"
+        },
+        {
+            "trigger": "UPPERCASE",
+            "contents": "UPPERCASE"
+        },
+        {
+            "trigger": "LOWERCASE",
+            "contents": "LOWERCASE"
+        },
+        {
+            "trigger": "TITLECASE",
+            "contents": "TITLECASE"
+        },
+        {
+            "trigger": "SENTENCECASE",
+            "contents": "SENTENCECASE"
+        },
+        {
+            "trigger": "NORMALCAPS",
+            "contents": "NORMALCAPS"
+        },
+        {
+            "trigger": "SMALLCAPS",
+            "contents": "SMALLCAPS"
+        },
+        {
+            "trigger": "ALLCAPS",
+            "contents": "ALLCAPS"
+        },
+        {
+            "trigger": "ALLSMALLCAPS",
+            "contents": "ALLSMALLCAPS"
+        },
+        {
+            "trigger": "NORMALBASELINE",
+            "contents": "NORMALBASELINE"
+        },
+        {
+            "trigger": "SUPERSCRIPT",
+            "contents": "SUPERSCRIPT"
+        },
+        {
+            "trigger": "SUBSCRIPT",
+            "contents": "SUBSCRIPT"
+        },
+        {
+            "trigger": "OPENTYPEDEFAULT",
+            "contents": "OPENTYPEDEFAULT"
+        },
+        {
+            "trigger": "OPENTYPESUPERSCRIPT",
+            "contents": "OPENTYPESUPERSCRIPT"
+        },
+        {
+            "trigger": "OPENTYPESUBSCRIPT",
+            "contents": "OPENTYPESUBSCRIPT"
+        },
+        {
+            "trigger": "NUMERATOR",
+            "contents": "NUMERATOR"
+        },
+        {
+            "trigger": "DENOMINATOR",
+            "contents": "DENOMINATOR"
+        },
+        {
+            "trigger": "DEFAULTFIGURESTYLE",
+            "contents": "DEFAULTFIGURESTYLE"
+        },
+        {
+            "trigger": "TABULAR",
+            "contents": "TABULAR"
+        },
+        {
+            "trigger": "PROPORTIONALOLDSTYLE",
+            "contents": "PROPORTIONALOLDSTYLE"
+        },
+        {
+            "trigger": "PROPORTIONAL",
+            "contents": "PROPORTIONAL"
+        },
+        {
+            "trigger": "TABULAROLDSTYLE",
+            "contents": "TABULAROLDSTYLE"
+        },
+        {
+            "trigger": "VerticalRotated",
+            "contents": "VerticalRotated"
+        },
+        {
+            "trigger": "TateChuYoko",
+            "contents": "TateChuYoko"
+        },
+        {
+            "trigger": "ENGLISH",
+            "contents": "ENGLISH"
+        },
+        {
+            "trigger": "FINNISH",
+            "contents": "FINNISH"
+        },
+        {
+            "trigger": "STANDARDFRENCH",
+            "contents": "STANDARDFRENCH"
+        },
+        {
+            "trigger": "CANADIANFRENCH",
+            "contents": "CANADIANFRENCH"
+        },
+        {
+            "trigger": "STANDARDGERMAN",
+            "contents": "STANDARDGERMAN"
+        },
+        {
+            "trigger": "OLDGERMAN",
+            "contents": "OLDGERMAN"
+        },
+        {
+            "trigger": "SWISSGERMAN",
+            "contents": "SWISSGERMAN"
+        },
+        {
+            "trigger": "ITALIAN",
+            "contents": "ITALIAN"
+        },
+        {
+            "trigger": "BOKMALNORWEGIAN",
+            "contents": "BOKMALNORWEGIAN"
+        },
+        {
+            "trigger": "NYNORSKNORWEGIAN",
+            "contents": "NYNORSKNORWEGIAN"
+        },
+        {
+            "trigger": "STANDARDPORTUGUESE",
+            "contents": "STANDARDPORTUGUESE"
+        },
+        {
+            "trigger": "BRAZILLIANPORTUGUESE",
+            "contents": "BRAZILLIANPORTUGUESE"
+        },
+        {
+            "trigger": "SPANISH",
+            "contents": "SPANISH"
+        },
+        {
+            "trigger": "SWEDISH",
+            "contents": "SWEDISH"
+        },
+        {
+            "trigger": "UKENGLISH",
+            "contents": "UKENGLISH"
+        },
+        {
+            "trigger": "DUTCH",
+            "contents": "DUTCH"
+        },
+        {
+            "trigger": "DANISH",
+            "contents": "DANISH"
+        },
+        {
+            "trigger": "CATALAN",
+            "contents": "CATALAN"
+        },
+        {
+            "trigger": "RUSSIAN",
+            "contents": "RUSSIAN"
+        },
+        {
+            "trigger": "UKRANIAN",
+            "contents": "UKRANIAN"
+        },
+        {
+            "trigger": "BULGARIAN",
+            "contents": "BULGARIAN"
+        },
+        {
+            "trigger": "SERBIAN",
+            "contents": "SERBIAN"
+        },
+        {
+            "trigger": "CZECH",
+            "contents": "CZECH"
+        },
+        {
+            "trigger": "POLISH",
+            "contents": "POLISH"
+        },
+        {
+            "trigger": "RUMANIAN",
+            "contents": "RUMANIAN"
+        },
+        {
+            "trigger": "GREEK",
+            "contents": "GREEK"
+        },
+        {
+            "trigger": "TURKISH",
+            "contents": "TURKISH"
+        },
+        {
+            "trigger": "ICELANDIC",
+            "contents": "ICELANDIC"
+        },
+        {
+            "trigger": "HUNGARIAN",
+            "contents": "HUNGARIAN"
+        },
+        {
+            "trigger": "CHINESE",
+            "contents": "CHINESE"
+        },
+        {
+            "trigger": "GERMAN2006REFORM",
+            "contents": "GERMAN2006REFORM"
+        },
+        {
+            "trigger": "DUTCH2005REFORM",
+            "contents": "DUTCH2005REFORM"
+        },
+        {
+            "trigger": "SWISSGERMAN2006REFORM",
+            "contents": "SWISSGERMAN2006REFORM"
+        },
+        {
+            "trigger": "DEFAULTFORM",
+            "contents": "DEFAULTFORM"
+        },
+        {
+            "trigger": "TRADITIONAL",
+            "contents": "TRADITIONAL"
+        },
+        {
+            "trigger": "EXPERT",
+            "contents": "EXPERT"
+        },
+        {
+            "trigger": "JIS78FORM",
+            "contents": "JIS78FORM"
+        },
+        {
+            "trigger": "JIS83FORM",
+            "contents": "JIS83FORM"
+        },
+        {
+            "trigger": "HALFWIDTH",
+            "contents": "HALFWIDTH"
+        },
+        {
+            "trigger": "THIRDWIDTH",
+            "contents": "THIRDWIDTH"
+        },
+        {
+            "trigger": "QUARTERWIDTH",
+            "contents": "QUARTERWIDTH"
+        },
+        {
+            "trigger": "FULLWIDTH",
+            "contents": "FULLWIDTH"
+        },
+        {
+            "trigger": "PROPORTIONALWIDTH",
+            "contents": "PROPORTIONALWIDTH"
+        },
+        {
+            "trigger": "JIS90FORM",
+            "contents": "JIS90FORM"
+        },
+        {
+            "trigger": "JIS04FORM",
+            "contents": "JIS04FORM"
+        },
+        {
+            "trigger": "icfBottom",
+            "contents": "icfBottom"
+        },
+        {
+            "trigger": "ROMANBASELINE",
+            "contents": "ROMANBASELINE"
+        },
+        {
+            "trigger": "icfTop",
+            "contents": "icfTop"
+        },
+        {
+            "trigger": "WARICHUFULLJUSTIFYLASTLINELEFT",
+            "contents": "WARICHUFULLJUSTIFYLASTLINELEFT"
+        },
+        {
+            "trigger": "WARICHUFULLJUSTIFYLASTLINERIGHT",
+            "contents": "WARICHUFULLJUSTIFYLASTLINERIGHT"
+        },
+        {
+            "trigger": "WARICHUFULLJUSTIFYLASTLINECENTER",
+            "contents": "WARICHUFULLJUSTIFYLASTLINECENTER"
+        },
+        {
+            "trigger": "WARICHUFULLJUSTIFY",
+            "contents": "WARICHUFULLJUSTIFY"
+        },
+        {
+            "trigger": "WARICHUAUTOJUSTIFY",
+            "contents": "WARICHUAUTOJUSTIFY"
+        },
+        {
+            "trigger": "Forced",
+            "contents": "Forced"
+        },
+        {
+            "trigger": "PUSHIN",
+            "contents": "PUSHIN"
+        },
+        {
+            "trigger": "PUSHOUTFIRST",
+            "contents": "PUSHOUTFIRST"
+        },
+        {
+            "trigger": "PUSHOUTONLY",
+            "contents": "PUSHOUTONLY"
+        },
+        {
+            "trigger": "PDFARTBOX",
+            "contents": "PDFARTBOX"
+        },
+        {
+            "trigger": "PDFCROPBOX",
+            "contents": "PDFCROPBOX"
+        },
+        {
+            "trigger": "PDFTRIMBOX",
+            "contents": "PDFTRIMBOX"
+        },
+        {
+            "trigger": "PDFBLEEDBOX",
+            "contents": "PDFBLEEDBOX"
+        },
+        {
+            "trigger": "PDFMEDIABOX",
+            "contents": "PDFMEDIABOX"
+        },
+        {
+            "trigger": "PDFBOUNDINGBOX",
+            "contents": "PDFBOUNDINGBOX"
+        },
+        {
+            "trigger": "TRACINGMODECOLOR",
+            "contents": "TRACINGMODECOLOR"
+        },
+        {
+            "trigger": "TRACINGMODEGRAY",
+            "contents": "TRACINGMODEGRAY"
+        },
+        {
+            "trigger": "TRACINGMODEBLACKANDWHITE",
+            "contents": "TRACINGMODEBLACKANDWHITE"
+        },
+        {
+            "trigger": "TRACINGVIEWVECTORNOTRACINGRESULT",
+            "contents": "TRACINGVIEWVECTORNOTRACINGRESULT"
+        },
+        {
+            "trigger": "TRACINGVIEWVECTORTRACINGRESULT",
+            "contents": "TRACINGVIEWVECTORTRACINGRESULT"
+        },
+        {
+            "trigger": "TRACINGVIEWVECTOROUTLINES",
+            "contents": "TRACINGVIEWVECTOROUTLINES"
+        },
+        {
+            "trigger": "TRACINGVIEWVECTOROUTLINESWITHTRACING",
+            "contents": "TRACINGVIEWVECTOROUTLINESWITHTRACING"
+        },
+        {
+            "trigger": "TRACINGVIEWRASTERNOIMAGE",
+            "contents": "TRACINGVIEWRASTERNOIMAGE"
+        },
+        {
+            "trigger": "TRACINGVIEWRASTERORIGINALIMAGE",
+            "contents": "TRACINGVIEWRASTERORIGINALIMAGE"
+        },
+        {
+            "trigger": "TRACINGVIEWRASTERADJUSTEDIMAGE",
+            "contents": "TRACINGVIEWRASTERADJUSTEDIMAGE"
+        },
+        {
+            "trigger": "TRACINGVIEWRASTERTRANSPARENTIMAGE",
+            "contents": "TRACINGVIEWRASTERTRANSPARENTIMAGE"
+        },
+        {
+            "trigger": "DEFAULTCOLORMODEL",
+            "contents": "DEFAULTCOLORMODEL"
+        },
+        {
+            "trigger": "BITMAP",
+            "contents": "BITMAP"
+        },
+        {
+            "trigger": "ARTOPTIMIZED",
+            "contents": "ARTOPTIMIZED"
+        },
+        {
+            "trigger": "TYPEOPTIMIZED",
+            "contents": "TYPEOPTIMIZED"
+        },
+        {
+            "trigger": "defaultpurpose",
+            "contents": "defaultpurpose"
+        },
+        {
+            "trigger": "previewpurpose",
+            "contents": "previewpurpose"
+        },
+        {
+            "trigger": "exportpurpose",
+            "contents": "exportpurpose"
+        },
+        {
+            "trigger": "dummypurpose",
+            "contents": "dummypurpose"
+        },
+        {
+            "trigger": "VERSION1PT0",
+            "contents": "VERSION1PT0"
+        },
+        {
+            "trigger": "VERSION2PT0",
+            "contents": "VERSION2PT0"
+        },
+        {
+            "trigger": "EXPANDFILTERS",
+            "contents": "EXPANDFILTERS"
+        },
+        {
+            "trigger": "RASTERIZEFILTERS",
+            "contents": "RASTERIZEFILTERS"
+        },
+        {
+            "trigger": "KEEPFILTERSEDITABLE",
+            "contents": "KEEPFILTERSEDITABLE"
+        },
+        {
+            "trigger": "OUTLINETEXT",
+            "contents": "OUTLINETEXT"
+        },
+        {
+            "trigger": "RASTERIZETEXT",
+            "contents": "RASTERIZETEXT"
+        },
+        {
+            "trigger": "KEEPTEXTEDITABLE",
+            "contents": "KEEPTEXTEDITABLE"
+        },
+        {
+            "trigger": "AUTOMATICALLYCONVERTTEXT",
+            "contents": "AUTOMATICALLYCONVERTTEXT"
+        },
+        {
+            "trigger": "KEEPGRADIENTSEDITABLE",
+            "contents": "KEEPGRADIENTSEDITABLE"
+        },
+        {
+            "trigger": "AUTOMATICALLYCONVERTGRADIENTS",
+            "contents": "AUTOMATICALLYCONVERTGRADIENTS"
+        },
+        {
+            "trigger": "AUTOMATICALLYCONVERTBLENDS",
+            "contents": "AUTOMATICALLYCONVERTBLENDS"
+        },
+        {
+            "trigger": "RASTERIZEBLENDS",
+            "contents": "RASTERIZEBLENDS"
+        },
+        {
+            "trigger": "DOCUMENTCOORDINATESYSTEM",
+            "contents": "DOCUMENTCOORDINATESYSTEM"
+        },
+        {
+            "trigger": "ARTBOARDCOORDINATESYSTEM",
+            "contents": "ARTBOARDCOORDINATESYSTEM"
+        },
+        {
+            "trigger": "SYMBOLTOPLEFTPOINT",
+            "contents": "SYMBOLTOPLEFTPOINT"
+        },
+        {
+            "trigger": "SYMBOLTOPMIDDLEPOINT",
+            "contents": "SYMBOLTOPMIDDLEPOINT"
+        },
+        {
+            "trigger": "SYMBOLTOPRIGHTPOINT",
+            "contents": "SYMBOLTOPRIGHTPOINT"
+        },
+        {
+            "trigger": "SYMBOLMIDDLELEFTPOINT",
+            "contents": "SYMBOLMIDDLELEFTPOINT"
+        },
+        {
+            "trigger": "SYMBOLCENTERPOINT",
+            "contents": "SYMBOLCENTERPOINT"
+        },
+        {
+            "trigger": "SYMBOLMIDDLERIGHTPOINT",
+            "contents": "SYMBOLMIDDLERIGHTPOINT"
+        },
+        {
+            "trigger": "SYMBOLBOTTOMLEFTPOINT",
+            "contents": "SYMBOLBOTTOMLEFTPOINT"
+        },
+        {
+            "trigger": "SYMBOLBOTTOMMIDDLEPOINT",
+            "contents": "SYMBOLBOTTOMMIDDLEPOINT"
+        },
+        {
+            "trigger": "SYMBOLBOTTOMRIGHTPOINT",
+            "contents": "SYMBOLBOTTOMRIGHTPOINT"
+        },
+        {
+            "trigger": "NOPLANE",
+            "contents": "NOPLANE"
+        },
+        {
+            "trigger": "LEFTPLANE",
+            "contents": "LEFTPLANE"
+        },
+        {
+            "trigger": "RIGHTPLANE",
+            "contents": "RIGHTPLANE"
+        },
+        {
+            "trigger": "FLOORPLANE",
+            "contents": "FLOORPLANE"
+        },
+        {
+            "trigger": "add",
+            "contents": "add"
+        },
+        {
+            "trigger": "parent",
+            "contents": "parent"
+        },
+        {
+            "trigger": "typename",
+            "contents": "typename"
+        },
+        {
+            "trigger": "length",
+            "contents": "length"
+        },
+        {
+            "trigger": "removeAll",
+            "contents": "removeAll"
+        },
+        {
+            "trigger": "remove",
+            "contents": "remove"
+        },
+        {
+            "trigger": "getByName",
+            "contents": "getByName"
+        },
+        {
+            "trigger": "insert",
+            "contents": "insert"
+        },
+        {
+            "trigger": "getActiveArtboardIndex",
+            "contents": "getActiveArtboardIndex"
+        },
+        {
+            "trigger": "setActiveArtboardIndex",
+            "contents": "setActiveArtboardIndex"
+        },
+        {
+            "trigger": "addDocument",
+            "contents": "addDocument"
+        },
+        {
+            "trigger": "createFromFile",
+            "contents": "createFromFile"
+        },
+        {
+            "trigger": "ellipse",
+            "contents": "ellipse"
+        },
+        {
+            "trigger": "roundedRectangle",
+            "contents": "roundedRectangle"
+        },
+        {
+            "trigger": "polygon",
+            "contents": "polygon"
+        },
+        {
+            "trigger": "star",
+            "contents": "star"
+        },
+        {
+            "trigger": "convertToNative",
+            "contents": "convertToNative"
+        },
+        {
+            "trigger": "addBefore",
+            "contents": "addBefore"
+        },
+        {
+            "trigger": "getSelected",
+            "contents": "getSelected"
+        },
+        {
+            "trigger": "updateLegacyText",
+            "contents": "updateLegacyText"
+        },
+        {
+            "trigger": "updateLegacyGradientMesh",
+            "contents": "updateLegacyGradientMesh"
+        },
+        {
+            "trigger": "openAs",
+            "contents": "openAs"
+        },
+        {
+            "trigger": "preserveLegacyArtboard",
+            "contents": "preserveLegacyArtboard"
+        },
+        {
+            "trigger": "convertCropAreaToArtboard",
+            "contents": "convertCropAreaToArtboard"
+        },
+        {
+            "trigger": "createArtboardWithArtworkBoundingBox",
+            "contents": "createArtboardWithArtworkBoundingBox"
+        },
+        {
+            "trigger": "convertTilesToArtboard",
+            "contents": "convertTilesToArtboard"
+        },
+        {
+            "trigger": "saveMultipleArtboards",
+            "contents": "saveMultipleArtboards"
+        },
+        {
+            "trigger": "artboardRange",
+            "contents": "artboardRange"
+        },
+        {
+            "trigger": "version",
+            "contents": "version"
+        },
+        {
+            "trigger": "preserveEditingCapabilities",
+            "contents": "preserveEditingCapabilities"
+        },
+        {
+            "trigger": "includeUnusedSymbols",
+            "contents": "includeUnusedSymbols"
+        },
+        {
+            "trigger": "downsampleLinkedImages",
+            "contents": "downsampleLinkedImages"
+        },
+        {
+            "trigger": "includeMetadata",
+            "contents": "includeMetadata"
+        },
+        {
+            "trigger": "filtersPolicy",
+            "contents": "filtersPolicy"
+        },
+        {
+            "trigger": "textPolicy",
+            "contents": "textPolicy"
+        },
+        {
+            "trigger": "gradientsPolicy",
+            "contents": "gradientsPolicy"
+        },
+        {
+            "trigger": "blendsPolicy",
+            "contents": "blendsPolicy"
+        },
+        {
+            "trigger": "preview",
+            "contents": "preview"
+        },
+        {
+            "trigger": "embedLinkedFiles",
+            "contents": "embedLinkedFiles"
+        },
+        {
+            "trigger": "includeDocumentThumbnails",
+            "contents": "includeDocumentThumbnails"
+        },
+        {
+            "trigger": "embedAllFonts",
+            "contents": "embedAllFonts"
+        },
+        {
+            "trigger": "cmykPostScript",
+            "contents": "cmykPostScript"
+        },
+        {
+            "trigger": "postScript",
+            "contents": "postScript"
+        },
+        {
+            "trigger": "flattenOutput",
+            "contents": "flattenOutput"
+        },
+        {
+            "trigger": "compatibleGradientPrinting",
+            "contents": "compatibleGradientPrinting"
+        },
+        {
+            "trigger": "overprint",
+            "contents": "overprint"
+        },
+        {
+            "trigger": "pDFPreset",
+            "contents": "pDFPreset"
+        },
+        {
+            "trigger": "pDFXStandardDescription",
+            "contents": "pDFXStandardDescription"
+        },
+        {
+            "trigger": "preserveEditability",
+            "contents": "preserveEditability"
+        },
+        {
+            "trigger": "generateThumbnails",
+            "contents": "generateThumbnails"
+        },
+        {
+            "trigger": "optimization",
+            "contents": "optimization"
+        },
+        {
+            "trigger": "viewAfterSaving",
+            "contents": "viewAfterSaving"
+        },
+        {
+            "trigger": "colorCompression",
+            "contents": "colorCompression"
+        },
+        {
+            "trigger": "colorTileSize",
+            "contents": "colorTileSize"
+        },
+        {
+            "trigger": "colorDownsamplingMethod",
+            "contents": "colorDownsamplingMethod"
+        },
+        {
+            "trigger": "colorDownsampling",
+            "contents": "colorDownsampling"
+        },
+        {
+            "trigger": "colorDownsamplingImageThreshold",
+            "contents": "colorDownsamplingImageThreshold"
+        },
+        {
+            "trigger": "grayscaleCompression",
+            "contents": "grayscaleCompression"
+        },
+        {
+            "trigger": "grayscaleTileSize",
+            "contents": "grayscaleTileSize"
+        },
+        {
+            "trigger": "grayscaleDownsamplingMethod",
+            "contents": "grayscaleDownsamplingMethod"
+        },
+        {
+            "trigger": "grayscaleDownsampling",
+            "contents": "grayscaleDownsampling"
+        },
+        {
+            "trigger": "grayscaleDownsamplingImageThreshold",
+            "contents": "grayscaleDownsamplingImageThreshold"
+        },
+        {
+            "trigger": "monochromeDownsamplingMethod",
+            "contents": "monochromeDownsamplingMethod"
+        },
+        {
+            "trigger": "monochromeDownsampling",
+            "contents": "monochromeDownsampling"
+        },
+        {
+            "trigger": "monochromeDownsamplingImageThreshold",
+            "contents": "monochromeDownsamplingImageThreshold"
+        },
+        {
+            "trigger": "compressArt",
+            "contents": "compressArt"
+        },
+        {
+            "trigger": "trimMarks",
+            "contents": "trimMarks"
+        },
+        {
+            "trigger": "registrationMarks",
+            "contents": "registrationMarks"
+        },
+        {
+            "trigger": "colorBars",
+            "contents": "colorBars"
+        },
+        {
+            "trigger": "pageInformation",
+            "contents": "pageInformation"
+        },
+        {
+            "trigger": "pageMarksType",
+            "contents": "pageMarksType"
+        },
+        {
+            "trigger": "trimMarkWeight",
+            "contents": "trimMarkWeight"
+        },
+        {
+            "trigger": "offset",
+            "contents": "offset"
+        },
+        {
+            "trigger": "bleedOffsetRect",
+            "contents": "bleedOffsetRect"
+        },
+        {
+            "trigger": "bleedLink",
+            "contents": "bleedLink"
+        },
+        {
+            "trigger": "colorConversionID",
+            "contents": "colorConversionID"
+        },
+        {
+            "trigger": "colorDestinationID",
+            "contents": "colorDestinationID"
+        },
+        {
+            "trigger": "colorProfileID",
+            "contents": "colorProfileID"
+        },
+        {
+            "trigger": "outputIntentProfile",
+            "contents": "outputIntentProfile"
+        },
+        {
+            "trigger": "outputCondition",
+            "contents": "outputCondition"
+        },
+        {
+            "trigger": "outputConditionID",
+            "contents": "outputConditionID"
+        },
+        {
+            "trigger": "registryName",
+            "contents": "registryName"
+        },
+        {
+            "trigger": "trapped",
+            "contents": "trapped"
+        },
+        {
+            "trigger": "fontSubsetThreshold",
+            "contents": "fontSubsetThreshold"
+        },
+        {
+            "trigger": "flattenerPreset",
+            "contents": "flattenerPreset"
+        },
+        {
+            "trigger": "flattenerOptions",
+            "contents": "flattenerOptions"
+        },
+        {
+            "trigger": "printerResolution",
+            "contents": "printerResolution"
+        },
+        {
+            "trigger": "acrobatLayers",
+            "contents": "acrobatLayers"
+        },
+        {
+            "trigger": "requireDocumentPassword",
+            "contents": "requireDocumentPassword"
+        },
+        {
+            "trigger": "documentPassword",
+            "contents": "documentPassword"
+        },
+        {
+            "trigger": "requirePermissionPassword",
+            "contents": "requirePermissionPassword"
+        },
+        {
+            "trigger": "permissionPassword",
+            "contents": "permissionPassword"
+        },
+        {
+            "trigger": "pDFAllowPrinting",
+            "contents": "pDFAllowPrinting"
+        },
+        {
+            "trigger": "pDFChangesAllowed",
+            "contents": "pDFChangesAllowed"
+        },
+        {
+            "trigger": "enableCopy",
+            "contents": "enableCopy"
+        },
+        {
+            "trigger": "enableAccess",
+            "contents": "enableAccess"
+        },
+        {
+            "trigger": "enablePlainText",
+            "contents": "enablePlainText"
+        },
+        {
+            "trigger": "enableCopyAccess",
+            "contents": "enableCopyAccess"
+        },
+        {
+            "trigger": "embedICCProfile",
+            "contents": "embedICCProfile"
+        },
+        {
+            "trigger": "pdfCompatible",
+            "contents": "pdfCompatible"
+        },
+        {
+            "trigger": "compressed",
+            "contents": "compressed"
+        },
+        {
+            "trigger": "mValueA",
+            "contents": "mValueA"
+        },
+        {
+            "trigger": "mValueB",
+            "contents": "mValueB"
+        },
+        {
+            "trigger": "mValueC",
+            "contents": "mValueC"
+        },
+        {
+            "trigger": "mValueD",
+            "contents": "mValueD"
+        },
+        {
+            "trigger": "mValueTX",
+            "contents": "mValueTX"
+        },
+        {
+            "trigger": "mValueTY",
+            "contents": "mValueTY"
+        },
+        {
+            "trigger": "qualitySetting",
+            "contents": "qualitySetting"
+        },
+        {
+            "trigger": "blurAmount",
+            "contents": "blurAmount"
+        },
+        {
+            "trigger": "matte",
+            "contents": "matte"
+        },
+        {
+            "trigger": "matteColor",
+            "contents": "matteColor"
+        },
+        {
+            "trigger": "horizontalScale",
+            "contents": "horizontalScale"
+        },
+        {
+            "trigger": "verticalScale",
+            "contents": "verticalScale"
+        },
+        {
+            "trigger": "antiAliasing",
+            "contents": "antiAliasing"
+        },
+        {
+            "trigger": "artBoardClipping",
+            "contents": "artBoardClipping"
+        },
+        {
+            "trigger": "saveAsHTML",
+            "contents": "saveAsHTML"
+        },
+        {
+            "trigger": "colorCount",
+            "contents": "colorCount"
+        },
+        {
+            "trigger": "colorReduction",
+            "contents": "colorReduction"
+        },
+        {
+            "trigger": "colorDither",
+            "contents": "colorDither"
+        },
+        {
+            "trigger": "ditherPercent",
+            "contents": "ditherPercent"
+        },
+        {
+            "trigger": "webSnap",
+            "contents": "webSnap"
+        },
+        {
+            "trigger": "transparency",
+            "contents": "transparency"
+        },
+        {
+            "trigger": "interlaced",
+            "contents": "interlaced"
+        },
+        {
+            "trigger": "infoLossPercent",
+            "contents": "infoLossPercent"
+        },
+        {
+            "trigger": "resolution",
+            "contents": "resolution"
+        },
+        {
+            "trigger": "writeLayers",
+            "contents": "writeLayers"
+        },
+        {
+            "trigger": "editableText",
+            "contents": "editableText"
+        },
+        {
+            "trigger": "warnings",
+            "contents": "warnings"
+        },
+        {
+            "trigger": "DTD",
+            "contents": "DTD"
+        },
+        {
+            "trigger": "fontType",
+            "contents": "fontType"
+        },
+        {
+            "trigger": "fontSubsetting",
+            "contents": "fontSubsetting"
+        },
+        {
+            "trigger": "embedRasterImages",
+            "contents": "embedRasterImages"
+        },
+        {
+            "trigger": "coordinatePrecision",
+            "contents": "coordinatePrecision"
+        },
+        {
+            "trigger": "documentEncoding",
+            "contents": "documentEncoding"
+        },
+        {
+            "trigger": "cssProperties",
+            "contents": "cssProperties"
+        },
+        {
+            "trigger": "optimizeForSVGViewer",
+            "contents": "optimizeForSVGViewer"
+        },
+        {
+            "trigger": "includeVariablesAndDatasets",
+            "contents": "includeVariablesAndDatasets"
+        },
+        {
+            "trigger": "includeFileInfo",
+            "contents": "includeFileInfo"
+        },
+        {
+            "trigger": "slices",
+            "contents": "slices"
+        },
+        {
+            "trigger": "sVGAutoKerning",
+            "contents": "sVGAutoKerning"
+        },
+        {
+            "trigger": "sVGTextOnPath",
+            "contents": "sVGTextOnPath"
+        },
+        {
+            "trigger": "exportStyle",
+            "contents": "exportStyle"
+        },
+        {
+            "trigger": "exportVersion",
+            "contents": "exportVersion"
+        },
+        {
+            "trigger": "frameRate",
+            "contents": "frameRate"
+        },
+        {
+            "trigger": "looping",
+            "contents": "looping"
+        },
+        {
+            "trigger": "readOnly",
+            "contents": "readOnly"
+        },
+        {
+            "trigger": "artClipping",
+            "contents": "artClipping"
+        },
+        {
+            "trigger": "curveQuality",
+            "contents": "curveQuality"
+        },
+        {
+            "trigger": "imageFormat",
+            "contents": "imageFormat"
+        },
+        {
+            "trigger": "jpegQuality",
+            "contents": "jpegQuality"
+        },
+        {
+            "trigger": "jpegMethod",
+            "contents": "jpegMethod"
+        },
+        {
+            "trigger": "playbackAccess",
+            "contents": "playbackAccess"
+        },
+        {
+            "trigger": "replacing",
+            "contents": "replacing"
+        },
+        {
+            "trigger": "convertTextToOutlines",
+            "contents": "convertTextToOutlines"
+        },
+        {
+            "trigger": "backgroundColor",
+            "contents": "backgroundColor"
+        },
+        {
+            "trigger": "backgroundLayers",
+            "contents": "backgroundLayers"
+        },
+        {
+            "trigger": "layerOrder",
+            "contents": "layerOrder"
+        },
+        {
+            "trigger": "blendAnimation",
+            "contents": "blendAnimation"
+        },
+        {
+            "trigger": "ignoreTextKerning",
+            "contents": "ignoreTextKerning"
+        },
+        {
+            "trigger": "exportAllSymbols",
+            "contents": "exportAllSymbols"
+        },
+        {
+            "trigger": "exportFileFormat",
+            "contents": "exportFileFormat"
+        },
+        {
+            "trigger": "unitScaleRatio",
+            "contents": "unitScaleRatio"
+        },
+        {
+            "trigger": "unit",
+            "contents": "unit"
+        },
+        {
+            "trigger": "colors",
+            "contents": "colors"
+        },
+        {
+            "trigger": "rasterFormat",
+            "contents": "rasterFormat"
+        },
+        {
+            "trigger": "exportOption",
+            "contents": "exportOption"
+        },
+        {
+            "trigger": "exportSelectedArtOnly",
+            "contents": "exportSelectedArtOnly"
+        },
+        {
+            "trigger": "alterPathsForAppearance",
+            "contents": "alterPathsForAppearance"
+        },
+        {
+            "trigger": "scaleLineweights",
+            "contents": "scaleLineweights"
+        },
+        {
+            "trigger": "red",
+            "contents": "red"
+        },
+        {
+            "trigger": "green",
+            "contents": "green"
+        },
+        {
+            "trigger": "blue",
+            "contents": "blue"
+        },
+        {
+            "trigger": "cyan",
+            "contents": "cyan"
+        },
+        {
+            "trigger": "magenta",
+            "contents": "magenta"
+        },
+        {
+            "trigger": "yellow",
+            "contents": "yellow"
+        },
+        {
+            "trigger": "black",
+            "contents": "black"
+        },
+        {
+            "trigger": "tint",
+            "contents": "tint"
+        },
+        {
+            "trigger": "shiftDistance",
+            "contents": "shiftDistance"
+        },
+        {
+            "trigger": "shiftAngle",
+            "contents": "shiftAngle"
+        },
+        {
+            "trigger": "scaleFactor",
+            "contents": "scaleFactor"
+        },
+        {
+            "trigger": "rotation",
+            "contents": "rotation"
+        },
+        {
+            "trigger": "reflect",
+            "contents": "reflect"
+        },
+        {
+            "trigger": "reflectAngle",
+            "contents": "reflectAngle"
+        },
+        {
+            "trigger": "shearAngle",
+            "contents": "shearAngle"
+        },
+        {
+            "trigger": "shearAxis",
+            "contents": "shearAxis"
+        },
+        {
+            "trigger": "origin",
+            "contents": "origin"
+        },
+        {
+            "trigger": "angle",
+            "contents": "angle"
+        },
+        {
+            "trigger": "hiliteAngle",
+            "contents": "hiliteAngle"
+        },
+        {
+            "trigger": "hiliteLength",
+            "contents": "hiliteLength"
+        },
+        {
+            "trigger": "alignment",
+            "contents": "alignment"
+        },
+        {
+            "trigger": "decimalCharacter",
+            "contents": "decimalCharacter"
+        },
+        {
+            "trigger": "position",
+            "contents": "position"
+        },
+        {
+            "trigger": "leader",
+            "contents": "leader"
+        },
+        {
+            "trigger": "name",
+            "contents": "name"
+        },
+        {
+            "trigger": "printerType",
+            "contents": "printerType"
+        },
+        {
+            "trigger": "postScriptLevel",
+            "contents": "postScriptLevel"
+        },
+        {
+            "trigger": "colorSupport",
+            "contents": "colorSupport"
+        },
+        {
+            "trigger": "deviceResolution",
+            "contents": "deviceResolution"
+        },
+        {
+            "trigger": "maxDeviceResolution",
+            "contents": "maxDeviceResolution"
+        },
+        {
+            "trigger": "inRIPSeparationSupport",
+            "contents": "inRIPSeparationSupport"
+        },
+        {
+            "trigger": "binaryPrintingSupport",
+            "contents": "binaryPrintingSupport"
+        },
+        {
+            "trigger": "paperSizes",
+            "contents": "paperSizes"
+        },
+        {
+            "trigger": "customPaperSupport",
+            "contents": "customPaperSupport"
+        },
+        {
+            "trigger": "customPaperTransverseSupport",
+            "contents": "customPaperTransverseSupport"
+        },
+        {
+            "trigger": "minPaperWidth",
+            "contents": "minPaperWidth"
+        },
+        {
+            "trigger": "maxPaperWidth",
+            "contents": "maxPaperWidth"
+        },
+        {
+            "trigger": "minPaperHeight",
+            "contents": "minPaperHeight"
+        },
+        {
+            "trigger": "maxPaperHeight",
+            "contents": "maxPaperHeight"
+        },
+        {
+            "trigger": "minPaperHeightOffset",
+            "contents": "minPaperHeightOffset"
+        },
+        {
+            "trigger": "maxPaperHeightOffset",
+            "contents": "maxPaperHeightOffset"
+        },
+        {
+            "trigger": "minPaperWidthOffset",
+            "contents": "minPaperWidthOffset"
+        },
+        {
+            "trigger": "maxPaperWidthOffset",
+            "contents": "maxPaperWidthOffset"
+        },
+        {
+            "trigger": "PPDInfo",
+            "contents": "PPDInfo"
+        },
+        {
+            "trigger": "languageLevel",
+            "contents": "languageLevel"
+        },
+        {
+            "trigger": "PPDFilePath",
+            "contents": "PPDFilePath"
+        },
+        {
+            "trigger": "screenList",
+            "contents": "screenList"
+        },
+        {
+            "trigger": "screenSpotFunctionList",
+            "contents": "screenSpotFunctionList"
+        },
+        {
+            "trigger": "width",
+            "contents": "width"
+        },
+        {
+            "trigger": "height",
+            "contents": "height"
+        },
+        {
+            "trigger": "imageableArea",
+            "contents": "imageableArea"
+        },
+        {
+            "trigger": "customPaper",
+            "contents": "customPaper"
+        },
+        {
+            "trigger": "defaultScreen",
+            "contents": "defaultScreen"
+        },
+        {
+            "trigger": "frequency",
+            "contents": "frequency"
+        },
+        {
+            "trigger": "spotFunction",
+            "contents": "spotFunction"
+        },
+        {
+            "trigger": "printingStatus",
+            "contents": "printingStatus"
+        },
+        {
+            "trigger": "kind",
+            "contents": "kind"
+        },
+        {
+            "trigger": "trapping",
+            "contents": "trapping"
+        },
+        {
+            "trigger": "trappingOrder",
+            "contents": "trappingOrder"
+        },
+        {
+            "trigger": "density",
+            "contents": "density"
+        },
+        {
+            "trigger": "customColor",
+            "contents": "customColor"
+        },
+        {
+            "trigger": "dotShape",
+            "contents": "dotShape"
+        },
+        {
+            "trigger": "title",
+            "contents": "title"
+        },
+        {
+            "trigger": "numArtboards",
+            "contents": "numArtboards"
+        },
+        {
+            "trigger": "artboardLayout",
+            "contents": "artboardLayout"
+        },
+        {
+            "trigger": "artboardSpacing",
+            "contents": "artboardSpacing"
+        },
+        {
+            "trigger": "artboardRowsOrCols",
+            "contents": "artboardRowsOrCols"
+        },
+        {
+            "trigger": "colorMode",
+            "contents": "colorMode"
+        },
+        {
+            "trigger": "units",
+            "contents": "units"
+        },
+        {
+            "trigger": "previewMode",
+            "contents": "previewMode"
+        },
+        {
+            "trigger": "rasterResolution",
+            "contents": "rasterResolution"
+        },
+        {
+            "trigger": "transparencyGrid",
+            "contents": "transparencyGrid"
+        },
+        {
+            "trigger": "printerName",
+            "contents": "printerName"
+        },
+        {
+            "trigger": "PPDName",
+            "contents": "PPDName"
+        },
+        {
+            "trigger": "printPreset",
+            "contents": "printPreset"
+        },
+        {
+            "trigger": "paperOptions",
+            "contents": "paperOptions"
+        },
+        {
+            "trigger": "jobOptions",
+            "contents": "jobOptions"
+        },
+        {
+            "trigger": "colorSeparationOptions",
+            "contents": "colorSeparationOptions"
+        },
+        {
+            "trigger": "coordinateOptions",
+            "contents": "coordinateOptions"
+        },
+        {
+            "trigger": "pageMarksOptions",
+            "contents": "pageMarksOptions"
+        },
+        {
+            "trigger": "fontOptions",
+            "contents": "fontOptions"
+        },
+        {
+            "trigger": "postScriptOptions",
+            "contents": "postScriptOptions"
+        },
+        {
+            "trigger": "colorManagementOptions",
+            "contents": "colorManagementOptions"
+        },
+        {
+            "trigger": "transverse",
+            "contents": "transverse"
+        },
+        {
+            "trigger": "designation",
+            "contents": "designation"
+        },
+        {
+            "trigger": "printArea",
+            "contents": "printArea"
+        },
+        {
+            "trigger": "copies",
+            "contents": "copies"
+        },
+        {
+            "trigger": "reversePages",
+            "contents": "reversePages"
+        },
+        {
+            "trigger": "collate",
+            "contents": "collate"
+        },
+        {
+            "trigger": "file",
+            "contents": "file"
+        },
+        {
+            "trigger": "printAsBitmap",
+            "contents": "printAsBitmap"
+        },
+        {
+            "trigger": "bitmapResolution",
+            "contents": "bitmapResolution"
+        },
+        {
+            "trigger": "printAllArtboards",
+            "contents": "printAllArtboards"
+        },
+        {
+            "trigger": "colorSeparationMode",
+            "contents": "colorSeparationMode"
+        },
+        {
+            "trigger": "convertSpotColors",
+            "contents": "convertSpotColors"
+        },
+        {
+            "trigger": "overPrintBlack",
+            "contents": "overPrintBlack"
+        },
+        {
+            "trigger": "inkList",
+            "contents": "inkList"
+        },
+        {
+            "trigger": "orientation",
+            "contents": "orientation"
+        },
+        {
+            "trigger": "emulsion",
+            "contents": "emulsion"
+        },
+        {
+            "trigger": "fitToPage",
+            "contents": "fitToPage"
+        },
+        {
+            "trigger": "tiling",
+            "contents": "tiling"
+        },
+        {
+            "trigger": "trimMarksWeight",
+            "contents": "trimMarksWeight"
+        },
+        {
+            "trigger": "pageInfoMarks",
+            "contents": "pageInfoMarks"
+        },
+        {
+            "trigger": "marksOffsetRect",
+            "contents": "marksOffsetRect"
+        },
+        {
+            "trigger": "downloadFonts",
+            "contents": "downloadFonts"
+        },
+        {
+            "trigger": "fontSubstitution",
+            "contents": "fontSubstitution"
+        },
+        {
+            "trigger": "binaryPrinting",
+            "contents": "binaryPrinting"
+        },
+        {
+            "trigger": "negativePrinting",
+            "contents": "negativePrinting"
+        },
+        {
+            "trigger": "imageCompression",
+            "contents": "imageCompression"
+        },
+        {
+            "trigger": "forceContinuousTone",
+            "contents": "forceContinuousTone"
+        },
+        {
+            "trigger": "compatibleShading",
+            "contents": "compatibleShading"
+        },
+        {
+            "trigger": "shadingResolution",
+            "contents": "shadingResolution"
+        },
+        {
+            "trigger": "colorProfileMode",
+            "contents": "colorProfileMode"
+        },
+        {
+            "trigger": "intent",
+            "contents": "intent"
+        },
+        {
+            "trigger": "flatteningBalance",
+            "contents": "flatteningBalance"
+        },
+        {
+            "trigger": "rasterizationResolution",
+            "contents": "rasterizationResolution"
+        },
+        {
+            "trigger": "gradientResolution",
+            "contents": "gradientResolution"
+        },
+        {
+            "trigger": "convertStrokesToOutlines",
+            "contents": "convertStrokesToOutlines"
+        },
+        {
+            "trigger": "clipComplexRegions",
+            "contents": "clipComplexRegions"
+        },
+        {
+            "trigger": "clippingMask",
+            "contents": "clippingMask"
+        },
+        {
+            "trigger": "padding",
+            "contents": "padding"
+        },
+        {
+            "trigger": "includeLayers",
+            "contents": "includeLayers"
+        },
+        {
+            "trigger": "backgroundBlack",
+            "contents": "backgroundBlack"
+        },
+        {
+            "trigger": "path",
+            "contents": "path"
+        },
+        {
+            "trigger": "activeDocument",
+            "contents": "activeDocument"
+        },
+        {
+            "trigger": "buildNumber",
+            "contents": "buildNumber"
+        },
+        {
+            "trigger": "locale",
+            "contents": "locale"
+        },
+        {
+            "trigger": "scriptingVersion",
+            "contents": "scriptingVersion"
+        },
+        {
+            "trigger": "freeMemory",
+            "contents": "freeMemory"
+        },
+        {
+            "trigger": "browserAvailable",
+            "contents": "browserAvailable"
+        },
+        {
+            "trigger": "selection",
+            "contents": "selection"
+        },
+        {
+            "trigger": "visible",
+            "contents": "visible"
+        },
+        {
+            "trigger": "printerList",
+            "contents": "printerList"
+        },
+        {
+            "trigger": "PPDFileList",
+            "contents": "PPDFileList"
+        },
+        {
+            "trigger": "printPresetsList",
+            "contents": "printPresetsList"
+        },
+        {
+            "trigger": "startupPresetsList",
+            "contents": "startupPresetsList"
+        },
+        {
+            "trigger": "PDFPresetsList",
+            "contents": "PDFPresetsList"
+        },
+        {
+            "trigger": "flattenerPresetsList",
+            "contents": "flattenerPresetsList"
+        },
+        {
+            "trigger": "tracingPresetsList",
+            "contents": "tracingPresetsList"
+        },
+        {
+            "trigger": "colorSettingsList",
+            "contents": "colorSettingsList"
+        },
+        {
+            "trigger": "defaultColorSettings",
+            "contents": "defaultColorSettings"
+        },
+        {
+            "trigger": "runAPITest",
+            "contents": "runAPITest"
+        },
+        {
+            "trigger": "aATLoadModel",
+            "contents": "aATLoadModel"
+        },
+        {
+            "trigger": "aATLoadUIExtension",
+            "contents": "aATLoadUIExtension"
+        },
+        {
+            "trigger": "aATLoadLibExtension",
+            "contents": "aATLoadLibExtension"
+        },
+        {
+            "trigger": "aATExecuteSession",
+            "contents": "aATExecuteSession"
+        },
+        {
+            "trigger": "aATExecuteSessionFromFile",
+            "contents": "aATExecuteSessionFromFile"
+        },
+        {
+            "trigger": "aATGetEditorDialogFile",
+            "contents": "aATGetEditorDialogFile"
+        },
+        {
+            "trigger": "getVersionString",
+            "contents": "getVersionString"
+        },
+        {
+            "trigger": "aATGetErrorDialogFile",
+            "contents": "aATGetErrorDialogFile"
+        },
+        {
+            "trigger": "aATErrorsExist",
+            "contents": "aATErrorsExist"
+        },
+        {
+            "trigger": "getExecutionOutput",
+            "contents": "getExecutionOutput"
+        },
+        {
+            "trigger": "aATClear",
+            "contents": "aATClear"
+        },
+        {
+            "trigger": "aATGetSession",
+            "contents": "aATGetSession"
+        },
+        {
+            "trigger": "aATSaveSession",
+            "contents": "aATSaveSession"
+        },
+        {
+            "trigger": "aATSaveAsSession",
+            "contents": "aATSaveAsSession"
+        },
+        {
+            "trigger": "aATLoadSessionFile",
+            "contents": "aATLoadSessionFile"
+        },
+        {
+            "trigger": "aATAddItem",
+            "contents": "aATAddItem"
+        },
+        {
+            "trigger": "aATMoveItem",
+            "contents": "aATMoveItem"
+        },
+        {
+            "trigger": "aATReplaceItem",
+            "contents": "aATReplaceItem"
+        },
+        {
+            "trigger": "aATRemoveItem",
+            "contents": "aATRemoveItem"
+        },
+        {
+            "trigger": "aATDuplicateItem",
+            "contents": "aATDuplicateItem"
+        },
+        {
+            "trigger": "aATEditItem",
+            "contents": "aATEditItem"
+        },
+        {
+            "trigger": "applyDataToItem",
+            "contents": "applyDataToItem"
+        },
+        {
+            "trigger": "applySingleDataPointToItem",
+            "contents": "applySingleDataPointToItem"
+        },
+        {
+            "trigger": "translateString",
+            "contents": "translateString"
+        },
+        {
+            "trigger": "aATFileSaveDialog",
+            "contents": "aATFileSaveDialog"
+        },
+        {
+            "trigger": "aATFileRelativeChanged",
+            "contents": "aATFileRelativeChanged"
+        },
+        {
+            "trigger": "aATGetListOfRelativePaths",
+            "contents": "aATGetListOfRelativePaths"
+        },
+        {
+            "trigger": "cut",
+            "contents": "cut"
+        },
+        {
+            "trigger": "copy",
+            "contents": "copy"
+        },
+        {
+            "trigger": "paste",
+            "contents": "paste"
+        },
+        {
+            "trigger": "undo",
+            "contents": "undo"
+        },
+        {
+            "trigger": "redo",
+            "contents": "redo"
+        },
+        {
+            "trigger": "getPresetFileOfType",
+            "contents": "getPresetFileOfType"
+        },
+        {
+            "trigger": "getPresetSettings",
+            "contents": "getPresetSettings"
+        },
+        {
+            "trigger": "redraw",
+            "contents": "redraw"
+        },
+        {
+            "trigger": "invertMatrix",
+            "contents": "invertMatrix"
+        },
+        {
+            "trigger": "isSingularMatrix",
+            "contents": "isSingularMatrix"
+        },
+        {
+            "trigger": "concatenateTranslationMatrix",
+            "contents": "concatenateTranslationMatrix"
+        },
+        {
+            "trigger": "concatenateScaleMatrix",
+            "contents": "concatenateScaleMatrix"
+        },
+        {
+            "trigger": "concatenateRotationMatrix",
+            "contents": "concatenateRotationMatrix"
+        },
+        {
+            "trigger": "concatenateMatrix",
+            "contents": "concatenateMatrix"
+        },
+        {
+            "trigger": "isEqualMatrix",
+            "contents": "isEqualMatrix"
+        },
+        {
+            "trigger": "getIdentityMatrix",
+            "contents": "getIdentityMatrix"
+        },
+        {
+            "trigger": "getRotationMatrix",
+            "contents": "getRotationMatrix"
+        },
+        {
+            "trigger": "getScaleMatrix",
+            "contents": "getScaleMatrix"
+        },
+        {
+            "trigger": "getTranslationMatrix",
+            "contents": "getTranslationMatrix"
+        },
+        {
+            "trigger": "open",
+            "contents": "open"
+        },
+        {
+            "trigger": "quit",
+            "contents": "quit"
+        },
+        {
+            "trigger": "beep",
+            "contents": "beep"
+        },
+        {
+            "trigger": "translatePlaceholderText",
+            "contents": "translatePlaceholderText"
+        },
+        {
+            "trigger": "showPresets",
+            "contents": "showPresets"
+        },
+        {
+            "trigger": "loadColorSettings",
+            "contents": "loadColorSettings"
+        },
+        {
+            "trigger": "getPPDFileInfo",
+            "contents": "getPPDFileInfo"
+        },
+        {
+            "trigger": "getScriptableHelpGroup",
+            "contents": "getScriptableHelpGroup"
+        },
+        {
+            "trigger": "convertSampleColor",
+            "contents": "convertSampleColor"
+        },
+        {
+            "trigger": "stationery",
+            "contents": "stationery"
+        },
+        {
+            "trigger": "fullName",
+            "contents": "fullName"
+        },
+        {
+            "trigger": "activeLayer",
+            "contents": "activeLayer"
+        },
+        {
+            "trigger": "activeView",
+            "contents": "activeView"
+        },
+        {
+            "trigger": "geometricBounds",
+            "contents": "geometricBounds"
+        },
+        {
+            "trigger": "visibleBounds",
+            "contents": "visibleBounds"
+        },
+        {
+            "trigger": "rulerOrigin",
+            "contents": "rulerOrigin"
+        },
+        {
+            "trigger": "pageOrigin",
+            "contents": "pageOrigin"
+        },
+        {
+            "trigger": "cropBox",
+            "contents": "cropBox"
+        },
+        {
+            "trigger": "cropStyle",
+            "contents": "cropStyle"
+        },
+        {
+            "trigger": "showPlacedImages",
+            "contents": "showPlacedImages"
+        },
+        {
+            "trigger": "outputResolution",
+            "contents": "outputResolution"
+        },
+        {
+            "trigger": "printTiles",
+            "contents": "printTiles"
+        },
+        {
+            "trigger": "splitLongPaths",
+            "contents": "splitLongPaths"
+        },
+        {
+            "trigger": "useDefaultScreen",
+            "contents": "useDefaultScreen"
+        },
+        {
+            "trigger": "saved",
+            "contents": "saved"
+        },
+        {
+            "trigger": "defaultFilled",
+            "contents": "defaultFilled"
+        },
+        {
+            "trigger": "defaultFillColor",
+            "contents": "defaultFillColor"
+        },
+        {
+            "trigger": "defaultFillOverprint",
+            "contents": "defaultFillOverprint"
+        },
+        {
+            "trigger": "defaultStroked",
+            "contents": "defaultStroked"
+        },
+        {
+            "trigger": "defaultStrokeColor",
+            "contents": "defaultStrokeColor"
+        },
+        {
+            "trigger": "defaultStrokeOverprint",
+            "contents": "defaultStrokeOverprint"
+        },
+        {
+            "trigger": "defaultStrokeWidth",
+            "contents": "defaultStrokeWidth"
+        },
+        {
+            "trigger": "defaultStrokeDashes",
+            "contents": "defaultStrokeDashes"
+        },
+        {
+            "trigger": "defaultStrokeDashOffset",
+            "contents": "defaultStrokeDashOffset"
+        },
+        {
+            "trigger": "defaultStrokeCap",
+            "contents": "defaultStrokeCap"
+        },
+        {
+            "trigger": "defaultStrokeJoin",
+            "contents": "defaultStrokeJoin"
+        },
+        {
+            "trigger": "defaultStrokeMiterLimit",
+            "contents": "defaultStrokeMiterLimit"
+        },
+        {
+            "trigger": "activeDataSet",
+            "contents": "activeDataSet"
+        },
+        {
+            "trigger": "variablesLocked",
+            "contents": "variablesLocked"
+        },
+        {
+            "trigger": "XMPString",
+            "contents": "XMPString"
+        },
+        {
+            "trigger": "rasterEffectSettings",
+            "contents": "rasterEffectSettings"
+        },
+        {
+            "trigger": "textFrames",
+            "contents": "textFrames"
+        },
+        {
+            "trigger": "kinsokuSet",
+            "contents": "kinsokuSet"
+        },
+        {
+            "trigger": "mojikumiSet",
+            "contents": "mojikumiSet"
+        },
+        {
+            "trigger": "close",
+            "contents": "close"
+        },
+        {
+            "trigger": "save",
+            "contents": "save"
+        },
+        {
+            "trigger": "saveAs",
+            "contents": "saveAs"
+        },
+        {
+            "trigger": "exportFile",
+            "contents": "exportFile"
+        },
+        {
+            "trigger": "activate",
+            "contents": "activate"
+        },
+        {
+            "trigger": "importVariables",
+            "contents": "importVariables"
+        },
+        {
+            "trigger": "exportVariables",
+            "contents": "exportVariables"
+        },
+        {
+            "trigger": "importCharacterStyles",
+            "contents": "importCharacterStyles"
+        },
+        {
+            "trigger": "importParagraphStyles",
+            "contents": "importParagraphStyles"
+        },
+        {
+            "trigger": "importPrintPreset",
+            "contents": "importPrintPreset"
+        },
+        {
+            "trigger": "exportPrintPreset",
+            "contents": "exportPrintPreset"
+        },
+        {
+            "trigger": "importPDFPreset",
+            "contents": "importPDFPreset"
+        },
+        {
+            "trigger": "exportPDFPreset",
+            "contents": "exportPDFPreset"
+        },
+        {
+            "trigger": "importPerspectiveGridPreset",
+            "contents": "importPerspectiveGridPreset"
+        },
+        {
+            "trigger": "exportPerspectiveGridPreset",
+            "contents": "exportPerspectiveGridPreset"
+        },
+        {
+            "trigger": "imageCapture",
+            "contents": "imageCapture"
+        },
+        {
+            "trigger": "windowCapture",
+            "contents": "windowCapture"
+        },
+        {
+            "trigger": "rasterize",
+            "contents": "rasterize"
+        },
+        {
+            "trigger": "rearrangeArtboards",
+            "contents": "rearrangeArtboards"
+        },
+        {
+            "trigger": "selectObjectsOnActiveArtboard",
+            "contents": "selectObjectsOnActiveArtboard"
+        },
+        {
+            "trigger": "fitArtboardToSelectedArt",
+            "contents": "fitArtboardToSelectedArt"
+        },
+        {
+            "trigger": "convertCoordinate",
+            "contents": "convertCoordinate"
+        },
+        {
+            "trigger": "selectPerspectivePreset",
+            "contents": "selectPerspectivePreset"
+        },
+        {
+            "trigger": "showPerspectiveGrid",
+            "contents": "showPerspectiveGrid"
+        },
+        {
+            "trigger": "hidePerspectiveGrid",
+            "contents": "hidePerspectiveGrid"
+        },
+        {
+            "trigger": "getPerspectiveActivePlane",
+            "contents": "getPerspectiveActivePlane"
+        },
+        {
+            "trigger": "setPerspectiveActivePlane",
+            "contents": "setPerspectiveActivePlane"
+        },
+        {
+            "trigger": "locked",
+            "contents": "locked"
+        },
+        {
+            "trigger": "printable",
+            "contents": "printable"
+        },
+        {
+            "trigger": "hasSelectedArtwork",
+            "contents": "hasSelectedArtwork"
+        },
+        {
+            "trigger": "dimPlacedImages",
+            "contents": "dimPlacedImages"
+        },
+        {
+            "trigger": "opacity",
+            "contents": "opacity"
+        },
+        {
+            "trigger": "zOrderPosition",
+            "contents": "zOrderPosition"
+        },
+        {
+            "trigger": "sliced",
+            "contents": "sliced"
+        },
+        {
+            "trigger": "blendingMode",
+            "contents": "blendingMode"
+        },
+        {
+            "trigger": "isIsolated",
+            "contents": "isIsolated"
+        },
+        {
+            "trigger": "artworkKnockout",
+            "contents": "artworkKnockout"
+        },
+        {
+            "trigger": "move",
+            "contents": "move"
+        },
+        {
+            "trigger": "zOrder",
+            "contents": "zOrder"
+        },
+        {
+            "trigger": "bounds",
+            "contents": "bounds"
+        },
+        {
+            "trigger": "centerPoint",
+            "contents": "centerPoint"
+        },
+        {
+            "trigger": "zoom",
+            "contents": "zoom"
+        },
+        {
+            "trigger": "type",
+            "contents": "type"
+        },
+        {
+            "trigger": "midPoint",
+            "contents": "midPoint"
+        },
+        {
+            "trigger": "rampPoint",
+            "contents": "rampPoint"
+        },
+        {
+            "trigger": "photoshopFileOptions",
+            "contents": "photoshopFileOptions"
+        },
+        {
+            "trigger": "PDFFileOptions",
+            "contents": "PDFFileOptions"
+        },
+        {
+            "trigger": "AutoCADFileOptions",
+            "contents": "AutoCADFileOptions"
+        },
+        {
+            "trigger": "FreeHandFileOptions",
+            "contents": "FreeHandFileOptions"
+        },
+        {
+            "trigger": "getBooleanPreference",
+            "contents": "getBooleanPreference"
+        },
+        {
+            "trigger": "setBooleanPreference",
+            "contents": "setBooleanPreference"
+        },
+        {
+            "trigger": "getIntegerPreference",
+            "contents": "getIntegerPreference"
+        },
+        {
+            "trigger": "setIntegerPreference",
+            "contents": "setIntegerPreference"
+        },
+        {
+            "trigger": "getRealPreference",
+            "contents": "getRealPreference"
+        },
+        {
+            "trigger": "setRealPreference",
+            "contents": "setRealPreference"
+        },
+        {
+            "trigger": "getStringPreference",
+            "contents": "getStringPreference"
+        },
+        {
+            "trigger": "setStringPreference",
+            "contents": "setStringPreference"
+        },
+        {
+            "trigger": "removePreference",
+            "contents": "removePreference"
+        },
+        {
+            "trigger": "spotKind",
+            "contents": "spotKind"
+        },
+        {
+            "trigger": "getInternalColor",
+            "contents": "getInternalColor"
+        },
+        {
+            "trigger": "display",
+            "contents": "display"
+        },
+        {
+            "trigger": "update",
+            "contents": "update"
+        },
+        {
+            "trigger": "addSwatch",
+            "contents": "addSwatch"
+        },
+        {
+            "trigger": "getAllSwatches",
+            "contents": "getAllSwatches"
+        },
+        {
+            "trigger": "addSpot",
+            "contents": "addSpot"
+        },
+        {
+            "trigger": "duplicate",
+            "contents": "duplicate"
+        },
+        {
+            "trigger": "applyTo",
+            "contents": "applyTo"
+        },
+        {
+            "trigger": "mergeTo",
+            "contents": "mergeTo"
+        },
+        {
+            "trigger": "family",
+            "contents": "family"
+        },
+        {
+            "trigger": "style",
+            "contents": "style"
+        },
+        {
+            "trigger": "URL",
+            "contents": "URL"
+        },
+        {
+            "trigger": "note",
+            "contents": "note"
+        },
+        {
+            "trigger": "hidden",
+            "contents": "hidden"
+        },
+        {
+            "trigger": "selected",
+            "contents": "selected"
+        },
+        {
+            "trigger": "controlBounds",
+            "contents": "controlBounds"
+        },
+        {
+            "trigger": "editable",
+            "contents": "editable"
+        },
+        {
+            "trigger": "visibilityVariable",
+            "contents": "visibilityVariable"
+        },
+        {
+            "trigger": "pixelAligned",
+            "contents": "pixelAligned"
+        },
+        {
+            "trigger": "wrapped",
+            "contents": "wrapped"
+        },
+        {
+            "trigger": "wrapOffset",
+            "contents": "wrapOffset"
+        },
+        {
+            "trigger": "wrapInside",
+            "contents": "wrapInside"
+        },
+        {
+            "trigger": "translate",
+            "contents": "translate"
+        },
+        {
+            "trigger": "resize",
+            "contents": "resize"
+        },
+        {
+            "trigger": "rotate",
+            "contents": "rotate"
+        },
+        {
+            "trigger": "transform",
+            "contents": "transform"
+        },
+        {
+            "trigger": "bringInPerspective",
+            "contents": "bringInPerspective"
+        },
+        {
+            "trigger": "value",
+            "contents": "value"
+        },
+        {
+            "trigger": "closed",
+            "contents": "closed"
+        },
+        {
+            "trigger": "area",
+            "contents": "area"
+        },
+        {
+            "trigger": "guides",
+            "contents": "guides"
+        },
+        {
+            "trigger": "filled",
+            "contents": "filled"
+        },
+        {
+            "trigger": "fillColor",
+            "contents": "fillColor"
+        },
+        {
+            "trigger": "fillOverprint",
+            "contents": "fillOverprint"
+        },
+        {
+            "trigger": "stroked",
+            "contents": "stroked"
+        },
+        {
+            "trigger": "strokeColor",
+            "contents": "strokeColor"
+        },
+        {
+            "trigger": "strokeOverprint",
+            "contents": "strokeOverprint"
+        },
+        {
+            "trigger": "strokeWidth",
+            "contents": "strokeWidth"
+        },
+        {
+            "trigger": "strokeDashes",
+            "contents": "strokeDashes"
+        },
+        {
+            "trigger": "strokeDashOffset",
+            "contents": "strokeDashOffset"
+        },
+        {
+            "trigger": "strokeMiterLimit",
+            "contents": "strokeMiterLimit"
+        },
+        {
+            "trigger": "clipping",
+            "contents": "clipping"
+        },
+        {
+            "trigger": "evenodd",
+            "contents": "evenodd"
+        },
+        {
+            "trigger": "selectedPathPoints",
+            "contents": "selectedPathPoints"
+        },
+        {
+            "trigger": "polarity",
+            "contents": "polarity"
+        },
+        {
+            "trigger": "setEntirePath",
+            "contents": "setEntirePath"
+        },
+        {
+            "trigger": "anchor",
+            "contents": "anchor"
+        },
+        {
+            "trigger": "boundingBox",
+            "contents": "boundingBox"
+        },
+        {
+            "trigger": "embedded",
+            "contents": "embedded"
+        },
+        {
+            "trigger": "colorizedGrayscale",
+            "contents": "colorizedGrayscale"
+        },
+        {
+            "trigger": "channels",
+            "contents": "channels"
+        },
+        {
+            "trigger": "bitsPerChannel",
+            "contents": "bitsPerChannel"
+        },
+        {
+            "trigger": "colorants",
+            "contents": "colorants"
+        },
+        {
+            "trigger": "status",
+            "contents": "status"
+        },
+        {
+            "trigger": "contentVariable",
+            "contents": "contentVariable"
+        },
+        {
+            "trigger": "colorize",
+            "contents": "colorize"
+        },
+        {
+            "trigger": "trace",
+            "contents": "trace"
+        },
+        {
+            "trigger": "embed",
+            "contents": "embed"
+        },
+        {
+            "trigger": "isTracing",
+            "contents": "isTracing"
+        },
+        {
+            "trigger": "tracing",
+            "contents": "tracing"
+        },
+        {
+            "trigger": "clipped",
+            "contents": "clipped"
+        },
+        {
+            "trigger": "textSelection",
+            "contents": "textSelection"
+        },
+        {
+            "trigger": "contents",
+            "contents": "contents"
+        },
+        {
+            "trigger": "rowCount",
+            "contents": "rowCount"
+        },
+        {
+            "trigger": "columnCount",
+            "contents": "columnCount"
+        },
+        {
+            "trigger": "rowGutter",
+            "contents": "rowGutter"
+        },
+        {
+            "trigger": "columnGutter",
+            "contents": "columnGutter"
+        },
+        {
+            "trigger": "flowLinksHorizontally",
+            "contents": "flowLinksHorizontally"
+        },
+        {
+            "trigger": "spacing",
+            "contents": "spacing"
+        },
+        {
+            "trigger": "opticalAlignment",
+            "contents": "opticalAlignment"
+        },
+        {
+            "trigger": "startTValue",
+            "contents": "startTValue"
+        },
+        {
+            "trigger": "endTValue",
+            "contents": "endTValue"
+        },
+        {
+            "trigger": "previousFrame",
+            "contents": "previousFrame"
+        },
+        {
+            "trigger": "nextFrame",
+            "contents": "nextFrame"
+        },
+        {
+            "trigger": "antialias",
+            "contents": "antialias"
+        },
+        {
+            "trigger": "createOutline",
+            "contents": "createOutline"
+        },
+        {
+            "trigger": "converted",
+            "contents": "converted"
+        },
+        {
+            "trigger": "characterOffset",
+            "contents": "characterOffset"
+        },
+        {
+            "trigger": "kerning",
+            "contents": "kerning"
+        },
+        {
+            "trigger": "select",
+            "contents": "select"
+        },
+        {
+            "trigger": "deSelect",
+            "contents": "deSelect"
+        },
+        {
+            "trigger": "changeCaseTo",
+            "contents": "changeCaseTo"
+        },
+        {
+            "trigger": "size",
+            "contents": "size"
+        },
+        {
+            "trigger": "autoLeading",
+            "contents": "autoLeading"
+        },
+        {
+            "trigger": "leading",
+            "contents": "leading"
+        },
+        {
+            "trigger": "tracking",
+            "contents": "tracking"
+        },
+        {
+            "trigger": "baselineShift",
+            "contents": "baselineShift"
+        },
+        {
+            "trigger": "kerningMethod",
+            "contents": "kerningMethod"
+        },
+        {
+            "trigger": "capitalization",
+            "contents": "capitalization"
+        },
+        {
+            "trigger": "baselinePosition",
+            "contents": "baselinePosition"
+        },
+        {
+            "trigger": "openTypePosition",
+            "contents": "openTypePosition"
+        },
+        {
+            "trigger": "ligature",
+            "contents": "ligature"
+        },
+        {
+            "trigger": "discretionaryLigature",
+            "contents": "discretionaryLigature"
+        },
+        {
+            "trigger": "contextualLigature",
+            "contents": "contextualLigature"
+        },
+        {
+            "trigger": "fractions",
+            "contents": "fractions"
+        },
+        {
+            "trigger": "ordinals",
+            "contents": "ordinals"
+        },
+        {
+            "trigger": "swash",
+            "contents": "swash"
+        },
+        {
+            "trigger": "titling",
+            "contents": "titling"
+        },
+        {
+            "trigger": "connectionForms",
+            "contents": "connectionForms"
+        },
+        {
+            "trigger": "stylisticAlternates",
+            "contents": "stylisticAlternates"
+        },
+        {
+            "trigger": "ornaments",
+            "contents": "ornaments"
+        },
+        {
+            "trigger": "figureStyle",
+            "contents": "figureStyle"
+        },
+        {
+            "trigger": "proportionalMetrics",
+            "contents": "proportionalMetrics"
+        },
+        {
+            "trigger": "italics",
+            "contents": "italics"
+        },
+        {
+            "trigger": "baselineDirection",
+            "contents": "baselineDirection"
+        },
+        {
+            "trigger": "language",
+            "contents": "language"
+        },
+        {
+            "trigger": "alternateGlyphs",
+            "contents": "alternateGlyphs"
+        },
+        {
+            "trigger": "Tsume",
+            "contents": "Tsume"
+        },
+        {
+            "trigger": "wariChuEnabled",
+            "contents": "wariChuEnabled"
+        },
+        {
+            "trigger": "wariChuLines",
+            "contents": "wariChuLines"
+        },
+        {
+            "trigger": "wariChuLineGap",
+            "contents": "wariChuLineGap"
+        },
+        {
+            "trigger": "wariChuScale",
+            "contents": "wariChuScale"
+        },
+        {
+            "trigger": "wariChuCharactersBeforeBreak",
+            "contents": "wariChuCharactersBeforeBreak"
+        },
+        {
+            "trigger": "wariChuCharactersAfterBreak",
+            "contents": "wariChuCharactersAfterBreak"
+        },
+        {
+            "trigger": "wariChuJustification",
+            "contents": "wariChuJustification"
+        },
+        {
+            "trigger": "tateChuYokoVertical",
+            "contents": "tateChuYokoVertical"
+        },
+        {
+            "trigger": "tateChuYokoHorizontal",
+            "contents": "tateChuYokoHorizontal"
+        },
+        {
+            "trigger": "akiLeft",
+            "contents": "akiLeft"
+        },
+        {
+            "trigger": "akiRight",
+            "contents": "akiRight"
+        },
+        {
+            "trigger": "noBreak",
+            "contents": "noBreak"
+        },
+        {
+            "trigger": "overprintStroke",
+            "contents": "overprintStroke"
+        },
+        {
+            "trigger": "overprintFill",
+            "contents": "overprintFill"
+        },
+        {
+            "trigger": "strokeWeight",
+            "contents": "strokeWeight"
+        },
+        {
+            "trigger": "underline",
+            "contents": "underline"
+        },
+        {
+            "trigger": "strikeThrough",
+            "contents": "strikeThrough"
+        },
+        {
+            "trigger": "firstLineIndent",
+            "contents": "firstLineIndent"
+        },
+        {
+            "trigger": "leftIndent",
+            "contents": "leftIndent"
+        },
+        {
+            "trigger": "rightIndent",
+            "contents": "rightIndent"
+        },
+        {
+            "trigger": "spaceBefore",
+            "contents": "spaceBefore"
+        },
+        {
+            "trigger": "spaceAfter",
+            "contents": "spaceAfter"
+        },
+        {
+            "trigger": "hyphenation",
+            "contents": "hyphenation"
+        },
+        {
+            "trigger": "minimumHyphenatedWordSize",
+            "contents": "minimumHyphenatedWordSize"
+        },
+        {
+            "trigger": "minimumBeforeHyphen",
+            "contents": "minimumBeforeHyphen"
+        },
+        {
+            "trigger": "minimumAfterHyphen",
+            "contents": "minimumAfterHyphen"
+        },
+        {
+            "trigger": "maximumConsecutiveHyphens",
+            "contents": "maximumConsecutiveHyphens"
+        },
+        {
+            "trigger": "hyphenationZone",
+            "contents": "hyphenationZone"
+        },
+        {
+            "trigger": "hyphenateCapitalizedWords",
+            "contents": "hyphenateCapitalizedWords"
+        },
+        {
+            "trigger": "hyphenationPreference",
+            "contents": "hyphenationPreference"
+        },
+        {
+            "trigger": "desiredWordSpacing",
+            "contents": "desiredWordSpacing"
+        },
+        {
+            "trigger": "maximumWordSpacing",
+            "contents": "maximumWordSpacing"
+        },
+        {
+            "trigger": "minimumWordSpacing",
+            "contents": "minimumWordSpacing"
+        },
+        {
+            "trigger": "desiredLetterSpacing",
+            "contents": "desiredLetterSpacing"
+        },
+        {
+            "trigger": "maximumLetterSpacing",
+            "contents": "maximumLetterSpacing"
+        },
+        {
+            "trigger": "minimumLetterSpacing",
+            "contents": "minimumLetterSpacing"
+        },
+        {
+            "trigger": "desiredGlyphScaling",
+            "contents": "desiredGlyphScaling"
+        },
+        {
+            "trigger": "maximumGlyphScaling",
+            "contents": "maximumGlyphScaling"
+        },
+        {
+            "trigger": "minimumGlyphScaling",
+            "contents": "minimumGlyphScaling"
+        },
+        {
+            "trigger": "singleWordJustification",
+            "contents": "singleWordJustification"
+        },
+        {
+            "trigger": "autoLeadingAmount",
+            "contents": "autoLeadingAmount"
+        },
+        {
+            "trigger": "leadingType",
+            "contents": "leadingType"
+        },
+        {
+            "trigger": "tabStops",
+            "contents": "tabStops"
+        },
+        {
+            "trigger": "romanHanging",
+            "contents": "romanHanging"
+        },
+        {
+            "trigger": "bunriKinshi",
+            "contents": "bunriKinshi"
+        },
+        {
+            "trigger": "burasagariType",
+            "contents": "burasagariType"
+        },
+        {
+            "trigger": "kinsokuOrder",
+            "contents": "kinsokuOrder"
+        },
+        {
+            "trigger": "kurikaeshiMojiShori",
+            "contents": "kurikaeshiMojiShori"
+        },
+        {
+            "trigger": "kinsoku",
+            "contents": "kinsoku"
+        },
+        {
+            "trigger": "mojikumi",
+            "contents": "mojikumi"
+        },
+        {
+            "trigger": "everyLineComposer",
+            "contents": "everyLineComposer"
+        },
+        {
+            "trigger": "preserveLayers",
+            "contents": "preserveLayers"
+        },
+        {
+            "trigger": "preserveImageMaps",
+            "contents": "preserveImageMaps"
+        },
+        {
+            "trigger": "preserveSlices",
+            "contents": "preserveSlices"
+        },
+        {
+            "trigger": "preserveHiddenLayers",
+            "contents": "preserveHiddenLayers"
+        },
+        {
+            "trigger": "layerComp",
+            "contents": "layerComp"
+        },
+        {
+            "trigger": "pageToOpen",
+            "contents": "pageToOpen"
+        },
+        {
+            "trigger": "pDFCropToBox",
+            "contents": "pDFCropToBox"
+        },
+        {
+            "trigger": "globalScaleOption",
+            "contents": "globalScaleOption"
+        },
+        {
+            "trigger": "globalScalePercent",
+            "contents": "globalScalePercent"
+        },
+        {
+            "trigger": "selectedLayoutName",
+            "contents": "selectedLayoutName"
+        },
+        {
+            "trigger": "centerArtwork",
+            "contents": "centerArtwork"
+        },
+        {
+            "trigger": "mergeLayers",
+            "contents": "mergeLayers"
+        },
+        {
+            "trigger": "importSinglePage",
+            "contents": "importSinglePage"
+        },
+        {
+            "trigger": "preset",
+            "contents": "preset"
+        },
+        {
+            "trigger": "resample",
+            "contents": "resample"
+        },
+        {
+            "trigger": "resampleResolution",
+            "contents": "resampleResolution"
+        },
+        {
+            "trigger": "tracingMode",
+            "contents": "tracingMode"
+        },
+        {
+            "trigger": "preprocessBlur",
+            "contents": "preprocessBlur"
+        },
+        {
+            "trigger": "threshold",
+            "contents": "threshold"
+        },
+        {
+            "trigger": "palette",
+            "contents": "palette"
+        },
+        {
+            "trigger": "maxColors",
+            "contents": "maxColors"
+        },
+        {
+            "trigger": "fills",
+            "contents": "fills"
+        },
+        {
+            "trigger": "strokes",
+            "contents": "strokes"
+        },
+        {
+            "trigger": "ignoreWhite",
+            "contents": "ignoreWhite"
+        },
+        {
+            "trigger": "maxStrokeWeight",
+            "contents": "maxStrokeWeight"
+        },
+        {
+            "trigger": "minStrokeLength",
+            "contents": "minStrokeLength"
+        },
+        {
+            "trigger": "pathFitting",
+            "contents": "pathFitting"
+        },
+        {
+            "trigger": "cornerAngle",
+            "contents": "cornerAngle"
+        },
+        {
+            "trigger": "minArea",
+            "contents": "minArea"
+        },
+        {
+            "trigger": "viewVector",
+            "contents": "viewVector"
+        },
+        {
+            "trigger": "viewRaster",
+            "contents": "viewRaster"
+        },
+        {
+            "trigger": "livePaintOutput",
+            "contents": "livePaintOutput"
+        },
+        {
+            "trigger": "outputToSwatches",
+            "contents": "outputToSwatches"
+        },
+        {
+            "trigger": "loadFromPreset",
+            "contents": "loadFromPreset"
+        },
+        {
+            "trigger": "storeToPreset",
+            "contents": "storeToPreset"
+        },
+        {
+            "trigger": "sourceArt",
+            "contents": "sourceArt"
+        },
+        {
+            "trigger": "pathCount",
+            "contents": "pathCount"
+        },
+        {
+            "trigger": "anchorCount",
+            "contents": "anchorCount"
+        },
+        {
+            "trigger": "usedColorCount",
+            "contents": "usedColorCount"
+        },
+        {
+            "trigger": "areaCount",
+            "contents": "areaCount"
+        },
+        {
+            "trigger": "imageResolution",
+            "contents": "imageResolution"
+        },
+        {
+            "trigger": "releaseTracing",
+            "contents": "releaseTracing"
+        },
+        {
+            "trigger": "expandTracing",
+            "contents": "expandTracing"
+        },
+        {
+            "trigger": "artboardRect",
+            "contents": "artboardRect"
+        },
+        {
+            "trigger": "rulerPAR",
+            "contents": "rulerPAR"
+        },
+        {
+            "trigger": "showCenter",
+            "contents": "showCenter"
+        },
+        {
+            "trigger": "showCrossHairs",
+            "contents": "showCrossHairs"
+        },
+        {
+            "trigger": "showSafeAreas",
+            "contents": "showSafeAreas"
+        }
+    ]
+}
