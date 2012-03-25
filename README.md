@@ -1,5 +1,5 @@
 # Sublime-Extendscript: 
-## 从 Sublime Text 2 编写及运行 Adobe ExtendScript. A tool to execute ExtendScript from Sublime Text 2.
+### 从 Sublime Text 2 编写及运行 Adobe ExtendScript. A tool to execute ExtendScript from Sublime Text 2.
 #### [Sublime Text 2](http://www.sublimetext.com/2)
 
 ## 安装 Installation
