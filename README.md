@@ -4,10 +4,10 @@
 
 ## 安装 Installation
 - `git clone git://github.com/moluapple/Sublime-Extendscript.git` 或 http 下载
-- 将所有文件拷贝至 `${packages}/User` 目录下
+- 将所有文件拷贝至 `${packages}` 目录下 `> Windows:  %APPDATA%\Sublime Text 2\Packages`
 
 ## 使用 Usage
-包含py2/py3两种配置，默认为py3版。假如系统安装python 2和3并存的话，可通过为其中一种 Build system 里 cmd 中使用绝对路径来实现。
+包含py2/py3两种配置，默认为py3版。假如系统安装python 2和3并存的话，可通过为其中一种 Build system 里 cmd 中使用绝对路径来实现。(请修改py27 build system中的路径为你的python27安装路径。)
 
 ### Build system
 打开一个 jsx 文件, 从 Tools -> Build System 里选择 Indesign/Illustrator, `Ctrl+B` 或 `F7` 运行.

@@ -1,5 +1,0 @@
-{
-  "cmd": ["D:\\Python27\\python.exe", "-u", "$packages/User/targetIndesign.py", "$file"],
-  "selector": "source.js",
-  "encoding": "GBK"
-}

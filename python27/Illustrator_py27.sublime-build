@@ -1,0 +1,4 @@
+{
+  "cmd": ["E:\\Python27\\python.exe", "-u", "$packages/Sublime-Extendscript/python27/targetIllustrator.py", "$file"],
+  "selector": "source.js"
+}

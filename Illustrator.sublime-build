@@ -1,5 +1,5 @@
 {
-  "cmd": ["python", "-u", "$packages/User/targetIllustrator.py", "$file"],
+  "cmd": ["python", "-u", "$packages/Sublime-Extendscript/targetIllustrator.py", "$file"],
   "selector": "source.js",
   "encoding": "GBK"
 }
