@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[#include "${0:doEx}.jsx";]]></content>
+    <tabTrigger>include</tabTrigger>
+    <scope>source.js</scope>
+    <description>#include</description>
+</snippet>

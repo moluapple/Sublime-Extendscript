@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[doEx(${1:"textFrames"}).each(function() {
+	${2:}
+});]]></content>
+    <tabTrigger>doEx-each</tabTrigger>
+    <scope>source.js</scope>
+    <description>doEx ... each</description>
+</snippet>

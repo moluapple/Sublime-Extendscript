@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[constructor.name==='${0:name}']]></content>
+    <tabTrigger>con</tabTrigger>
+    <scope>source.js</scope>
+    <description>constructor.name</description>
+</snippet>
